@@ -1,0 +1,15 @@
+C:\workspace\Estudos C# VB6 e Delphi\dio\projeto1\DigitalInovationOne\bin\Debug\net6.0\DigitalInovationOne.exe
+C:\workspace\Estudos C# VB6 e Delphi\dio\projeto1\DigitalInovationOne\bin\Debug\net6.0\DigitalInovationOne.deps.json
+C:\workspace\Estudos C# VB6 e Delphi\dio\projeto1\DigitalInovationOne\bin\Debug\net6.0\DigitalInovationOne.runtimeconfig.json
+C:\workspace\Estudos C# VB6 e Delphi\dio\projeto1\DigitalInovationOne\bin\Debug\net6.0\DigitalInovationOne.dll
+C:\workspace\Estudos C# VB6 e Delphi\dio\projeto1\DigitalInovationOne\bin\Debug\net6.0\ref\DigitalInovationOne.dll
+C:\workspace\Estudos C# VB6 e Delphi\dio\projeto1\DigitalInovationOne\bin\Debug\net6.0\DigitalInovationOne.pdb
+C:\workspace\Estudos C# VB6 e Delphi\dio\projeto1\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.csproj.AssemblyReference.cache
+C:\workspace\Estudos C# VB6 e Delphi\dio\projeto1\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Estudos C# VB6 e Delphi\dio\projeto1\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.AssemblyInfoInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\dio\projeto1\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.AssemblyInfo.cs
+C:\workspace\Estudos C# VB6 e Delphi\dio\projeto1\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.csproj.CoreCompileInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\dio\projeto1\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.dll
+C:\workspace\Estudos C# VB6 e Delphi\dio\projeto1\DigitalInovationOne\obj\Debug\net6.0\ref\DigitalInovationOne.dll
+C:\workspace\Estudos C# VB6 e Delphi\dio\projeto1\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.pdb
+C:\workspace\Estudos C# VB6 e Delphi\dio\projeto1\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.genruntimeconfig.cache
