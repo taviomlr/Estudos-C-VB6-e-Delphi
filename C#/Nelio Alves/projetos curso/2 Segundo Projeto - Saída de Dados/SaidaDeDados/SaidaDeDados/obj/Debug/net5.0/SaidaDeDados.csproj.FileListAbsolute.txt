@@ -1,0 +1,16 @@
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\2 Segundo Projeto - Saída de Dados\SaidaDeDados\SaidaDeDados\bin\Debug\net5.0\SaidaDeDados.exe
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\2 Segundo Projeto - Saída de Dados\SaidaDeDados\SaidaDeDados\bin\Debug\net5.0\SaidaDeDados.deps.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\2 Segundo Projeto - Saída de Dados\SaidaDeDados\SaidaDeDados\bin\Debug\net5.0\SaidaDeDados.runtimeconfig.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\2 Segundo Projeto - Saída de Dados\SaidaDeDados\SaidaDeDados\bin\Debug\net5.0\SaidaDeDados.runtimeconfig.dev.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\2 Segundo Projeto - Saída de Dados\SaidaDeDados\SaidaDeDados\bin\Debug\net5.0\SaidaDeDados.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\2 Segundo Projeto - Saída de Dados\SaidaDeDados\SaidaDeDados\bin\Debug\net5.0\ref\SaidaDeDados.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\2 Segundo Projeto - Saída de Dados\SaidaDeDados\SaidaDeDados\bin\Debug\net5.0\SaidaDeDados.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\2 Segundo Projeto - Saída de Dados\SaidaDeDados\SaidaDeDados\obj\Debug\net5.0\SaidaDeDados.csproj.AssemblyReference.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\2 Segundo Projeto - Saída de Dados\SaidaDeDados\SaidaDeDados\obj\Debug\net5.0\SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\2 Segundo Projeto - Saída de Dados\SaidaDeDados\SaidaDeDados\obj\Debug\net5.0\SaidaDeDados.AssemblyInfoInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\2 Segundo Projeto - Saída de Dados\SaidaDeDados\SaidaDeDados\obj\Debug\net5.0\SaidaDeDados.AssemblyInfo.cs
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\2 Segundo Projeto - Saída de Dados\SaidaDeDados\SaidaDeDados\obj\Debug\net5.0\SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\2 Segundo Projeto - Saída de Dados\SaidaDeDados\SaidaDeDados\obj\Debug\net5.0\SaidaDeDados.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\2 Segundo Projeto - Saída de Dados\SaidaDeDados\SaidaDeDados\obj\Debug\net5.0\ref\SaidaDeDados.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\2 Segundo Projeto - Saída de Dados\SaidaDeDados\SaidaDeDados\obj\Debug\net5.0\SaidaDeDados.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\2 Segundo Projeto - Saída de Dados\SaidaDeDados\SaidaDeDados\obj\Debug\net5.0\SaidaDeDados.genruntimeconfig.cache

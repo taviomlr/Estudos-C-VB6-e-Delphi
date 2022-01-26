@@ -1,0 +1,44 @@
+Line 71: Class Fox.EBSText of control etxValor was not a loaded control class.
+Line 99: Class Fox.EBSText of control etxCentroCusto was not a loaded control class.
+Line 127: Class Fox.EBSData of control edtPeriodo was not a loaded control class.
+Line 149: Class Fox.EBSText of control etxConta was not a loaded control class.
+Line 77: The property name _ExtentX in etxValor is invalid.
+Line 78: The property name _ExtentY in etxValor is invalid.
+Line 79: The property name Tipo in etxValor is invalid.
+Line 80: The property name CasasDecimais in etxValor is invalid.
+Line 81: The property name PermiteNegativo in etxValor is invalid.
+Line 82: The property name TipoTexto in etxValor is invalid.
+Line 83: The property name MaxLength in etxValor is invalid.
+Line 84: The property name Caption in etxValor is invalid.
+Line 85: The property name TipoCriterio in etxValor is invalid.
+Line 86: The property name Alinhamento in etxValor is invalid.
+Line 87: The property name Mascara in etxValor is invalid.
+Line 97: The property name ExibeDescricao in etxValor is invalid.
+Line 105: The property name _ExtentX in etxCentroCusto is invalid.
+Line 106: The property name _ExtentY in etxCentroCusto is invalid.
+Line 107: The property name TipoTexto in etxCentroCusto is invalid.
+Line 108: The property name MaxLength in etxCentroCusto is invalid.
+Line 109: The property name Caption in etxCentroCusto is invalid.
+Line 110: The property name PossuiDescricao in etxCentroCusto is invalid.
+Line 111: The property name CampoCriterio in etxCentroCusto is invalid.
+Line 112: The property name TipoCriterio in etxCentroCusto is invalid.
+Line 113: The property name CampoDescricao in etxCentroCusto is invalid.
+Line 114: The property name TabelaConsulta in etxCentroCusto is invalid.
+Line 115: The property name TamanhoDescricao in etxCentroCusto is invalid.
+Line 116: The property name Alinhamento in etxCentroCusto is invalid.
+Line 133: The property name _ExtentX in edtPeriodo is invalid.
+Line 134: The property name _ExtentY in edtPeriodo is invalid.
+Line 135: The property name HabilitaCalendario in edtPeriodo is invalid.
+Line 136: The property name Formato in edtPeriodo is invalid.
+Line 137: The property name Caption in edtPeriodo is invalid.
+Line 155: The property name _ExtentX in etxConta is invalid.
+Line 156: The property name _ExtentY in etxConta is invalid.
+Line 157: The property name TipoTexto in etxConta is invalid.
+Line 158: The property name Caption in etxConta is invalid.
+Line 160: The property name PossuiDescricao in etxConta is invalid.
+Line 161: The property name CampoCriterio in etxConta is invalid.
+Line 162: The property name TipoCriterio in etxConta is invalid.
+Line 163: The property name CampoDescricao in etxConta is invalid.
+Line 164: The property name TabelaConsulta in etxConta is invalid.
+Line 165: The property name TamanhoDescricao in etxConta is invalid.
+Line 166: The property name Alinhamento in etxConta is invalid.

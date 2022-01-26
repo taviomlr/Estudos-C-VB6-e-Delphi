@@ -1,0 +1,15 @@
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\7 Operadores de Atribuíção\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net5.0\OperadoresDeAtribuicao.exe
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\7 Operadores de Atribuíção\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net5.0\OperadoresDeAtribuicao.deps.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\7 Operadores de Atribuíção\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net5.0\OperadoresDeAtribuicao.runtimeconfig.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\7 Operadores de Atribuíção\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net5.0\OperadoresDeAtribuicao.runtimeconfig.dev.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\7 Operadores de Atribuíção\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net5.0\OperadoresDeAtribuicao.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\7 Operadores de Atribuíção\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net5.0\ref\OperadoresDeAtribuicao.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\7 Operadores de Atribuíção\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net5.0\OperadoresDeAtribuicao.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\7 Operadores de Atribuíção\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net5.0\OperadoresDeAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\7 Operadores de Atribuíção\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net5.0\OperadoresDeAtribuicao.AssemblyInfoInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\7 Operadores de Atribuíção\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net5.0\OperadoresDeAtribuicao.AssemblyInfo.cs
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\7 Operadores de Atribuíção\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net5.0\OperadoresDeAtribuicao.csproj.CoreCompileInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\7 Operadores de Atribuíção\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net5.0\OperadoresDeAtribuicao.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\7 Operadores de Atribuíção\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net5.0\ref\OperadoresDeAtribuicao.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\7 Operadores de Atribuíção\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net5.0\OperadoresDeAtribuicao.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\7 Operadores de Atribuíção\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net5.0\OperadoresDeAtribuicao.genruntimeconfig.cache

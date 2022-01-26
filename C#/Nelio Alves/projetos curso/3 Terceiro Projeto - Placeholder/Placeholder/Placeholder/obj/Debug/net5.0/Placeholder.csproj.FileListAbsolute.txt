@@ -1,0 +1,15 @@
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\3 Terceiro Projeto - Placeholder\Placeholder\Placeholder\bin\Debug\net5.0\Placeholder.exe
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\3 Terceiro Projeto - Placeholder\Placeholder\Placeholder\bin\Debug\net5.0\Placeholder.deps.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\3 Terceiro Projeto - Placeholder\Placeholder\Placeholder\bin\Debug\net5.0\Placeholder.runtimeconfig.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\3 Terceiro Projeto - Placeholder\Placeholder\Placeholder\bin\Debug\net5.0\Placeholder.runtimeconfig.dev.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\3 Terceiro Projeto - Placeholder\Placeholder\Placeholder\bin\Debug\net5.0\Placeholder.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\3 Terceiro Projeto - Placeholder\Placeholder\Placeholder\bin\Debug\net5.0\ref\Placeholder.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\3 Terceiro Projeto - Placeholder\Placeholder\Placeholder\bin\Debug\net5.0\Placeholder.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\3 Terceiro Projeto - Placeholder\Placeholder\Placeholder\obj\Debug\net5.0\Placeholder.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\3 Terceiro Projeto - Placeholder\Placeholder\Placeholder\obj\Debug\net5.0\Placeholder.AssemblyInfoInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\3 Terceiro Projeto - Placeholder\Placeholder\Placeholder\obj\Debug\net5.0\Placeholder.AssemblyInfo.cs
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\3 Terceiro Projeto - Placeholder\Placeholder\Placeholder\obj\Debug\net5.0\Placeholder.csproj.CoreCompileInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\3 Terceiro Projeto - Placeholder\Placeholder\Placeholder\obj\Debug\net5.0\Placeholder.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\3 Terceiro Projeto - Placeholder\Placeholder\Placeholder\obj\Debug\net5.0\ref\Placeholder.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\3 Terceiro Projeto - Placeholder\Placeholder\Placeholder\obj\Debug\net5.0\Placeholder.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\3 Terceiro Projeto - Placeholder\Placeholder\Placeholder\obj\Debug\net5.0\Placeholder.genruntimeconfig.cache

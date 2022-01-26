@@ -1,0 +1,16 @@
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\6 Exercício de Fixação\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\net5.0\ExercicioFixacao1.exe
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\6 Exercício de Fixação\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\net5.0\ExercicioFixacao1.deps.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\6 Exercício de Fixação\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\net5.0\ExercicioFixacao1.runtimeconfig.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\6 Exercício de Fixação\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\net5.0\ExercicioFixacao1.runtimeconfig.dev.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\6 Exercício de Fixação\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\net5.0\ExercicioFixacao1.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\6 Exercício de Fixação\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\net5.0\ref\ExercicioFixacao1.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\6 Exercício de Fixação\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\net5.0\ExercicioFixacao1.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\6 Exercício de Fixação\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\net5.0\ExercicioFixacao1.csproj.AssemblyReference.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\6 Exercício de Fixação\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\net5.0\ExercicioFixacao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\6 Exercício de Fixação\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\net5.0\ExercicioFixacao1.AssemblyInfoInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\6 Exercício de Fixação\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\net5.0\ExercicioFixacao1.AssemblyInfo.cs
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\6 Exercício de Fixação\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\net5.0\ExercicioFixacao1.csproj.CoreCompileInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\6 Exercício de Fixação\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\net5.0\ExercicioFixacao1.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\6 Exercício de Fixação\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\net5.0\ref\ExercicioFixacao1.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\6 Exercício de Fixação\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\net5.0\ExercicioFixacao1.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\6 Exercício de Fixação\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\net5.0\ExercicioFixacao1.genruntimeconfig.cache

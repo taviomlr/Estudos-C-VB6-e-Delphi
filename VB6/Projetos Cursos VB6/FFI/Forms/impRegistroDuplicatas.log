@@ -1,0 +1,255 @@
+Line 17: Class ReportX.ReportSection of control ReportSection4 was not a loaded control class.
+Line 26: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 52: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 99: Class ReportX.ReportSection of control rpsDetalhe was not a loaded control class.
+Line 107: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 130: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 154: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 178: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 204: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 227: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 250: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 273: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 296: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 321: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 345: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 370: Class ReportX.ReportSection of control rpsRodGrupo was not a loaded control class.
+Line 380: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 406: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 459: Class ReportX.ReportSection of control ReportSection1 was not a loaded control class.
+Line 650: Class ReportX.ReportMain of control REL was not a loaded control class.
+Line 661: Class ReportX.ReportSection of control Titulo was not a loaded control class.
+Line 670: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 696: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 722: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 743: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 767: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 791: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 815: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 839: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 864: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 887: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 910: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 933: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 956: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 979: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 1002: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 1025: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 1048: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 1071: Class ReportX.ReportField of control rpfREL was not a loaded control class.
+Line 23: The property name _ExtentX in ReportSection4 is invalid.
+Line 24: The property name _ExtentY in ReportSection4 is invalid.
+Line 25: The property name Tipo in ReportSection4 is invalid.
+Line 33: The property name _ExtentX in rpfREL is invalid.
+Line 34: The property name _ExtentY in rpfREL is invalid.
+Line 35: The property name Campo in rpfREL is invalid.
+Line 36: The property name Formato in rpfREL is invalid.
+Line 37: The property name Caption in rpfREL is invalid.
+Line 38: The property name TipoCampo in rpfREL is invalid.
+Line 39: The property name Formula in rpfREL is invalid.
+Line 40: The property name Alignment in rpfREL is invalid.
+Line 59: The property name _ExtentX in rpfREL is invalid.
+Line 60: The property name _ExtentY in rpfREL is invalid.
+Line 61: The property name Campo in rpfREL is invalid.
+Line 62: The property name Formato in rpfREL is invalid.
+Line 63: The property name Caption in rpfREL is invalid.
+Line 64: The property name TipoCampo in rpfREL is invalid.
+Line 65: The property name Formula in rpfREL is invalid.
+Line 66: The property name Alignment in rpfREL is invalid.
+Line 105: The property name _ExtentX in rpsDetalhe is invalid.
+Line 106: The property name _ExtentY in rpsDetalhe is invalid.
+Line 114: The property name _ExtentX in rpfREL is invalid.
+Line 115: The property name _ExtentY in rpfREL is invalid.
+Line 116: The property name Campo in rpfREL is invalid.
+Line 117: The property name Caption in rpfREL is invalid.
+Line 118: The property name Formula in rpfREL is invalid.
+Line 137: The property name _ExtentX in rpfREL is invalid.
+Line 138: The property name _ExtentY in rpfREL is invalid.
+Line 139: The property name Campo in rpfREL is invalid.
+Line 140: The property name Formato in rpfREL is invalid.
+Line 141: The property name Caption in rpfREL is invalid.
+Line 142: The property name Formula in rpfREL is invalid.
+Line 161: The property name _ExtentX in rpfREL is invalid.
+Line 162: The property name _ExtentY in rpfREL is invalid.
+Line 163: The property name Campo in rpfREL is invalid.
+Line 164: The property name Caption in rpfREL is invalid.
+Line 165: The property name Formula in rpfREL is invalid.
+Line 166: The property name Alignment in rpfREL is invalid.
+Line 185: The property name _ExtentX in rpfREL is invalid.
+Line 186: The property name _ExtentY in rpfREL is invalid.
+Line 187: The property name Campo in rpfREL is invalid.
+Line 188: The property name Formato in rpfREL is invalid.
+Line 189: The property name Caption in rpfREL is invalid.
+Line 190: The property name TipoCampo in rpfREL is invalid.
+Line 191: The property name Formula in rpfREL is invalid.
+Line 192: The property name Alignment in rpfREL is invalid.
+Line 211: The property name _ExtentX in rpfREL is invalid.
+Line 212: The property name _ExtentY in rpfREL is invalid.
+Line 213: The property name Campo in rpfREL is invalid.
+Line 214: The property name Caption in rpfREL is invalid.
+Line 215: The property name Formula in rpfREL is invalid.
+Line 234: The property name _ExtentX in rpfREL is invalid.
+Line 235: The property name _ExtentY in rpfREL is invalid.
+Line 236: The property name Campo in rpfREL is invalid.
+Line 237: The property name Caption in rpfREL is invalid.
+Line 238: The property name Alignment in rpfREL is invalid.
+Line 257: The property name _ExtentX in rpfREL is invalid.
+Line 258: The property name _ExtentY in rpfREL is invalid.
+Line 259: The property name Campo in rpfREL is invalid.
+Line 260: The property name Caption in rpfREL is invalid.
+Line 261: The property name Alignment in rpfREL is invalid.
+Line 280: The property name _ExtentX in rpfREL is invalid.
+Line 281: The property name _ExtentY in rpfREL is invalid.
+Line 282: The property name Campo in rpfREL is invalid.
+Line 283: The property name Caption in rpfREL is invalid.
+Line 284: The property name Alignment in rpfREL is invalid.
+Line 303: The property name _ExtentX in rpfREL is invalid.
+Line 304: The property name _ExtentY in rpfREL is invalid.
+Line 305: The property name Campo in rpfREL is invalid.
+Line 306: The property name Formato in rpfREL is invalid.
+Line 307: The property name Caption in rpfREL is invalid.
+Line 308: The property name TipoCampo in rpfREL is invalid.
+Line 309: The property name Alignment in rpfREL is invalid.
+Line 328: The property name _ExtentX in rpfREL is invalid.
+Line 329: The property name _ExtentY in rpfREL is invalid.
+Line 330: The property name Campo in rpfREL is invalid.
+Line 331: The property name Caption in rpfREL is invalid.
+Line 332: The property name MostrarSeRepetir in rpfREL is invalid.
+Line 333: The property name Mostrar in rpfREL is invalid.
+Line 352: The property name _ExtentX in rpfREL is invalid.
+Line 353: The property name _ExtentY in rpfREL is invalid.
+Line 354: The property name Campo in rpfREL is invalid.
+Line 355: The property name Caption in rpfREL is invalid.
+Line 356: The property name MostrarSeRepetir in rpfREL is invalid.
+Line 357: The property name Mostrar in rpfREL is invalid.
+Line 376: The property name _ExtentX in rpsRodGrupo is invalid.
+Line 377: The property name _ExtentY in rpsRodGrupo is invalid.
+Line 378: The property name Tipo in rpsRodGrupo is invalid.
+Line 379: The property name Ordem in rpsRodGrupo is invalid.
+Line 387: The property name _ExtentX in rpfREL is invalid.
+Line 388: The property name _ExtentY in rpfREL is invalid.
+Line 389: The property name Campo in rpfREL is invalid.
+Line 390: The property name Formato in rpfREL is invalid.
+Line 391: The property name Caption in rpfREL is invalid.
+Line 392: The property name TipoCampo in rpfREL is invalid.
+Line 393: The property name Formula in rpfREL is invalid.
+Line 394: The property name Alignment in rpfREL is invalid.
+Line 413: The property name _ExtentX in rpfREL is invalid.
+Line 414: The property name _ExtentY in rpfREL is invalid.
+Line 415: The property name Campo in rpfREL is invalid.
+Line 416: The property name Formato in rpfREL is invalid.
+Line 417: The property name Caption in rpfREL is invalid.
+Line 418: The property name TipoCampo in rpfREL is invalid.
+Line 419: The property name Formula in rpfREL is invalid.
+Line 420: The property name Alignment in rpfREL is invalid.
+Line 465: The property name _ExtentX in ReportSection1 is invalid.
+Line 466: The property name _ExtentY in ReportSection1 is invalid.
+Line 467: The property name Tipo in ReportSection1 is invalid.
+Line 468: The property name Ordem in ReportSection1 is invalid.
+Line 656: The property name _ExtentX in REL is invalid.
+Line 657: The property name _ExtentY in REL is invalid.
+Line 658: The property name Pagina in REL is invalid.
+Line 659: The property name Titulo in REL is invalid.
+Line 667: The property name _ExtentX in Titulo is invalid.
+Line 668: The property name _ExtentY in Titulo is invalid.
+Line 669: The property name Tipo in Titulo is invalid.
+Line 677: The property name _ExtentX in Campo is invalid.
+Line 678: The property name _ExtentY in Campo is invalid.
+Line 679: The property name Campo in Campo is invalid.
+Line 680: The property name Formato in Campo is invalid.
+Line 681: The property name Caption in Campo is invalid.
+Line 682: The property name TipoCampo in Campo is invalid.
+Line 683: The property name Formula in Campo is invalid.
+Line 684: The property name Alignment in Campo is invalid.
+Line 703: The property name _ExtentX in Campo is invalid.
+Line 704: The property name _ExtentY in Campo is invalid.
+Line 705: The property name Campo in Campo is invalid.
+Line 706: The property name Formato in Campo is invalid.
+Line 707: The property name Caption in Campo is invalid.
+Line 708: The property name TipoCampo in Campo is invalid.
+Line 709: The property name Formula in Campo is invalid.
+Line 710: The property name Alignment in Campo is invalid.
+Line 729: The property name _ExtentX in Campo is invalid.
+Line 730: The property name _ExtentY in Campo is invalid.
+Line 731: The property name Caption in Campo is invalid.
+Line 750: The property name _ExtentX in Campo is invalid.
+Line 751: The property name _ExtentY in Campo is invalid.
+Line 752: The property name Campo in Campo is invalid.
+Line 753: The property name Caption in Campo is invalid.
+Line 754: The property name Formula in Campo is invalid.
+Line 755: The property name Alignment in Campo is invalid.
+Line 774: The property name _ExtentX in Campo is invalid.
+Line 775: The property name _ExtentY in Campo is invalid.
+Line 776: The property name Campo in Campo is invalid.
+Line 777: The property name Caption in Campo is invalid.
+Line 778: The property name Formula in Campo is invalid.
+Line 779: The property name Alignment in Campo is invalid.
+Line 798: The property name _ExtentX in Campo is invalid.
+Line 799: The property name _ExtentY in Campo is invalid.
+Line 800: The property name Campo in Campo is invalid.
+Line 801: The property name Caption in Campo is invalid.
+Line 802: The property name Formula in Campo is invalid.
+Line 803: The property name Alignment in Campo is invalid.
+Line 822: The property name _ExtentX in Campo is invalid.
+Line 823: The property name _ExtentY in Campo is invalid.
+Line 824: The property name Campo in Campo is invalid.
+Line 825: The property name Caption in Campo is invalid.
+Line 826: The property name Formula in Campo is invalid.
+Line 827: The property name Alignment in Campo is invalid.
+Line 846: The property name _ExtentX in Campo is invalid.
+Line 847: The property name _ExtentY in Campo is invalid.
+Line 848: The property name Linhas in Campo is invalid.
+Line 849: The property name Campo in Campo is invalid.
+Line 850: The property name Caption in Campo is invalid.
+Line 851: The property name Formula in Campo is invalid.
+Line 852: The property name Alignment in Campo is invalid.
+Line 871: The property name _ExtentX in rpfREL is invalid.
+Line 872: The property name _ExtentY in rpfREL is invalid.
+Line 873: The property name Campo in rpfREL is invalid.
+Line 874: The property name Caption in rpfREL is invalid.
+Line 875: The property name Formula in rpfREL is invalid.
+Line 894: The property name _ExtentX in rpfREL is invalid.
+Line 895: The property name _ExtentY in rpfREL is invalid.
+Line 896: The property name Campo in rpfREL is invalid.
+Line 897: The property name Caption in rpfREL is invalid.
+Line 898: The property name Formula in rpfREL is invalid.
+Line 917: The property name _ExtentX in rpfREL is invalid.
+Line 918: The property name _ExtentY in rpfREL is invalid.
+Line 919: The property name Campo in rpfREL is invalid.
+Line 920: The property name Caption in rpfREL is invalid.
+Line 921: The property name Formula in rpfREL is invalid.
+Line 940: The property name _ExtentX in rpfREL is invalid.
+Line 941: The property name _ExtentY in rpfREL is invalid.
+Line 942: The property name Campo in rpfREL is invalid.
+Line 943: The property name Caption in rpfREL is invalid.
+Line 944: The property name Formula in rpfREL is invalid.
+Line 963: The property name _ExtentX in rpfREL is invalid.
+Line 964: The property name _ExtentY in rpfREL is invalid.
+Line 965: The property name Campo in rpfREL is invalid.
+Line 966: The property name Caption in rpfREL is invalid.
+Line 967: The property name Formula in rpfREL is invalid.
+Line 986: The property name _ExtentX in rpfREL is invalid.
+Line 987: The property name _ExtentY in rpfREL is invalid.
+Line 988: The property name Campo in rpfREL is invalid.
+Line 989: The property name Caption in rpfREL is invalid.
+Line 990: The property name Formula in rpfREL is invalid.
+Line 1009: The property name _ExtentX in rpfREL is invalid.
+Line 1010: The property name _ExtentY in rpfREL is invalid.
+Line 1011: The property name Campo in rpfREL is invalid.
+Line 1012: The property name Caption in rpfREL is invalid.
+Line 1013: The property name Formula in rpfREL is invalid.
+Line 1032: The property name _ExtentX in rpfREL is invalid.
+Line 1033: The property name _ExtentY in rpfREL is invalid.
+Line 1034: The property name Campo in rpfREL is invalid.
+Line 1035: The property name Caption in rpfREL is invalid.
+Line 1036: The property name Formula in rpfREL is invalid.
+Line 1055: The property name _ExtentX in rpfREL is invalid.
+Line 1056: The property name _ExtentY in rpfREL is invalid.
+Line 1057: The property name Campo in rpfREL is invalid.
+Line 1058: The property name Caption in rpfREL is invalid.
+Line 1059: The property name Formula in rpfREL is invalid.
+Line 1078: The property name _ExtentX in rpfREL is invalid.
+Line 1079: The property name _ExtentY in rpfREL is invalid.
+Line 1080: The property name Campo in rpfREL is invalid.
+Line 1081: The property name Caption in rpfREL is invalid.
+Line 1082: The property name Formula in rpfREL is invalid.

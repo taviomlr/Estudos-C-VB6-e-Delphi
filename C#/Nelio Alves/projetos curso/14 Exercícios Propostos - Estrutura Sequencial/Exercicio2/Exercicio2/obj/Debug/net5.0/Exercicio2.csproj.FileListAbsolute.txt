@@ -1,0 +1,16 @@
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\14 Exercícios Propostos - Estrutura Sequencial\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.exe
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\14 Exercícios Propostos - Estrutura Sequencial\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.deps.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\14 Exercícios Propostos - Estrutura Sequencial\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.runtimeconfig.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\14 Exercícios Propostos - Estrutura Sequencial\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.runtimeconfig.dev.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\14 Exercícios Propostos - Estrutura Sequencial\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\14 Exercícios Propostos - Estrutura Sequencial\Exercicio2\Exercicio2\bin\Debug\net5.0\ref\Exercicio2.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\14 Exercícios Propostos - Estrutura Sequencial\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\14 Exercícios Propostos - Estrutura Sequencial\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.csproj.AssemblyReference.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\14 Exercícios Propostos - Estrutura Sequencial\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\14 Exercícios Propostos - Estrutura Sequencial\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.AssemblyInfoInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\14 Exercícios Propostos - Estrutura Sequencial\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.AssemblyInfo.cs
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\14 Exercícios Propostos - Estrutura Sequencial\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\14 Exercícios Propostos - Estrutura Sequencial\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\14 Exercícios Propostos - Estrutura Sequencial\Exercicio2\Exercicio2\obj\Debug\net5.0\ref\Exercicio2.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\14 Exercícios Propostos - Estrutura Sequencial\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\14 Exercícios Propostos - Estrutura Sequencial\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.genruntimeconfig.cache

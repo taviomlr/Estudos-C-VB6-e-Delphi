@@ -1,0 +1,64 @@
+Line 31: Class Fox.EBSText of control etxOperContabilDupl was not a loaded control class.
+Line 50: Class Fox.EBSText of control etxOperContabilLanc was not a loaded control class.
+Line 259: Class Fox.EBSText of control etxEmpresa was not a loaded control class.
+Line 277: Class Fox.EBSText of control etxBanco was not a loaded control class.
+Line 296: Class Fox.EBSText of control etxCamara was not a loaded control class.
+Line 310: Class Fox.EBSArquivo of control etxDiretorio was not a loaded control class.
+Line 37: The property name _extentx in etxOperContabilDupl is invalid.
+Line 38: The property name _extenty in etxOperContabilDupl is invalid.
+Line 40: The property name tipotexto in etxOperContabilDupl is invalid.
+Line 41: The property name maxlength in etxOperContabilDupl is invalid.
+Line 42: The property name possuidescricao in etxOperContabilDupl is invalid.
+Line 43: The property name campocriterio in etxOperContabilDupl is invalid.
+Line 44: The property name tipocriterio in etxOperContabilDupl is invalid.
+Line 45: The property name campodescricao in etxOperContabilDupl is invalid.
+Line 46: The property name tabelaconsulta in etxOperContabilDupl is invalid.
+Line 47: The property name tamanhodescricao in etxOperContabilDupl is invalid.
+Line 48: The property name alinhamento in etxOperContabilDupl is invalid.
+Line 31: Property Font in etxOperContabilDupl could not be set.
+Line 56: The property name _extentx in etxOperContabilLanc is invalid.
+Line 57: The property name _extenty in etxOperContabilLanc is invalid.
+Line 59: The property name tipotexto in etxOperContabilLanc is invalid.
+Line 60: The property name maxlength in etxOperContabilLanc is invalid.
+Line 61: The property name possuidescricao in etxOperContabilLanc is invalid.
+Line 62: The property name campocriterio in etxOperContabilLanc is invalid.
+Line 63: The property name tipocriterio in etxOperContabilLanc is invalid.
+Line 64: The property name campodescricao in etxOperContabilLanc is invalid.
+Line 65: The property name tabelaconsulta in etxOperContabilLanc is invalid.
+Line 66: The property name tamanhodescricao in etxOperContabilLanc is invalid.
+Line 67: The property name alinhamento in etxOperContabilLanc is invalid.
+Line 50: Property Font in etxOperContabilLanc could not be set.
+Line 265: The property name _extentx in etxEmpresa is invalid.
+Line 266: The property name _extenty in etxEmpresa is invalid.
+Line 268: The property name tipo in etxEmpresa is invalid.
+Line 269: The property name tipotexto in etxEmpresa is invalid.
+Line 270: The property name maxlength in etxEmpresa is invalid.
+Line 271: The property name possuidescricao in etxEmpresa is invalid.
+Line 272: The property name campocriterio in etxEmpresa is invalid.
+Line 273: The property name campodescricao in etxEmpresa is invalid.
+Line 274: The property name tabelaconsulta in etxEmpresa is invalid.
+Line 275: The property name tamanhodescricao in etxEmpresa is invalid.
+Line 259: Property Font in etxEmpresa could not be set.
+Line 283: The property name _extentx in etxBanco is invalid.
+Line 284: The property name _extenty in etxBanco is invalid.
+Line 286: The property name tipotexto in etxBanco is invalid.
+Line 287: The property name maxlength in etxBanco is invalid.
+Line 288: The property name possuidescricao in etxBanco is invalid.
+Line 289: The property name campocriterio in etxBanco is invalid.
+Line 290: The property name tipocriterio in etxBanco is invalid.
+Line 291: The property name campodescricao in etxBanco is invalid.
+Line 292: The property name tabelaconsulta in etxBanco is invalid.
+Line 293: The property name tamanhodescricao in etxBanco is invalid.
+Line 294: The property name alinhamento in etxBanco is invalid.
+Line 277: Property Font in etxBanco could not be set.
+Line 302: The property name _extentx in etxCamara is invalid.
+Line 303: The property name _extenty in etxCamara is invalid.
+Line 305: The property name tipotexto in etxCamara is invalid.
+Line 306: The property name maxlength in etxCamara is invalid.
+Line 307: The property name tipocriterio in etxCamara is invalid.
+Line 308: The property name alinhamento in etxCamara is invalid.
+Line 296: Property Font in etxCamara could not be set.
+Line 316: The property name _extentx in etxDiretorio is invalid.
+Line 317: The property name _extenty in etxDiretorio is invalid.
+Line 318: The property name tipotratamento in etxDiretorio is invalid.
+Line 319: The property name filter in etxDiretorio is invalid.

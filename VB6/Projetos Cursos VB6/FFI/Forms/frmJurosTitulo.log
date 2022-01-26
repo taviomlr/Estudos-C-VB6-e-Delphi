@@ -1,0 +1,45 @@
+Line 122: Class Fox.EBSText of control etxBanco was not a loaded control class.
+Line 148: Class Fox.EBSText of control etxDocumento was not a loaded control class.
+Line 169: Class Fox.EBSText of control etxParcela was not a loaded control class.
+Line 191: Class Fox.EBSText of control etxTaxaJuros was not a loaded control class.
+Line 216: Class Fox.EBSText of control etxJuros was not a loaded control class.
+Line 241: Class Fox.EBSData of control edtPagamento was not a loaded control class.
+Line 128: The property name _ExtentX in etxBanco is invalid.
+Line 129: The property name _ExtentY in etxBanco is invalid.
+Line 130: The property name TipoTexto in etxBanco is invalid.
+Line 132: The property name PossuiDescricao in etxBanco is invalid.
+Line 133: The property name CampoCriterio in etxBanco is invalid.
+Line 134: The property name TipoCriterio in etxBanco is invalid.
+Line 135: The property name CampoDescricao in etxBanco is invalid.
+Line 136: The property name TabelaConsulta in etxBanco is invalid.
+Line 137: The property name Alinhamento in etxBanco is invalid.
+Line 154: The property name _ExtentX in etxDocumento is invalid.
+Line 155: The property name _ExtentY in etxDocumento is invalid.
+Line 156: The property name Tipo in etxDocumento is invalid.
+Line 157: The property name TipoTexto in etxDocumento is invalid.
+Line 175: The property name _ExtentX in etxParcela is invalid.
+Line 176: The property name _ExtentY in etxParcela is invalid.
+Line 177: The property name TipoTexto in etxParcela is invalid.
+Line 179: The property name TipoCriterio in etxParcela is invalid.
+Line 180: The property name Alinhamento in etxParcela is invalid.
+Line 197: The property name _ExtentX in etxTaxaJuros is invalid.
+Line 198: The property name _ExtentY in etxTaxaJuros is invalid.
+Line 199: The property name Tipo in etxTaxaJuros is invalid.
+Line 200: The property name CasasDecimais in etxTaxaJuros is invalid.
+Line 201: The property name TipoTexto in etxTaxaJuros is invalid.
+Line 202: The property name MaxLength in etxTaxaJuros is invalid.
+Line 203: The property name TipoCriterio in etxTaxaJuros is invalid.
+Line 204: The property name Alinhamento in etxTaxaJuros is invalid.
+Line 205: The property name Mascara in etxTaxaJuros is invalid.
+Line 222: The property name _ExtentX in etxJuros is invalid.
+Line 223: The property name _ExtentY in etxJuros is invalid.
+Line 224: The property name Tipo in etxJuros is invalid.
+Line 225: The property name CasasDecimais in etxJuros is invalid.
+Line 226: The property name TipoTexto in etxJuros is invalid.
+Line 227: The property name MaxLength in etxJuros is invalid.
+Line 228: The property name TipoCriterio in etxJuros is invalid.
+Line 229: The property name Alinhamento in etxJuros is invalid.
+Line 230: The property name Mascara in etxJuros is invalid.
+Line 247: The property name _ExtentX in edtPagamento is invalid.
+Line 248: The property name _ExtentY in edtPagamento is invalid.
+Line 249: The property name HabilitaCalendario in edtPagamento is invalid.

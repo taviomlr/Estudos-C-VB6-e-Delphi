@@ -1,0 +1,83 @@
+Line 82: Class Fox.EBSCombo of control ecbSegmento was not a loaded control class.
+Line 138: Class Fox.EBSText of control etxMovimento was not a loaded control class.
+Line 155: Class Fox.EBSText of control etxCodigoMovimento was not a loaded control class.
+Line 172: Class Fox.EBSText of control etxTipoCompTED was not a loaded control class.
+Line 189: Class Fox.EBSText of control etxFinalidadeTED was not a loaded control class.
+Line 206: Class Fox.EBSText of control etxTipoConta was not a loaded control class.
+Line 312: Class Fox.EBSText of control etxNumeroLote was not a loaded control class.
+Line 326: Class Fox.EBSText of control etxBancoDestinoArquivo was not a loaded control class.
+Line 88: The property name _extentx in ecbSegmento is invalid.
+Line 89: The property name _extenty in ecbSegmento is invalid.
+Line 90: The property name origemdados in ecbSegmento is invalid.
+Line 91: The property name dados in ecbSegmento is invalid.
+Line 92: The property name dadosassist in ecbSegmento is invalid.
+Line 93: The property name caption in ecbSegmento is invalid.
+Line 82: Property Font in ecbSegmento could not be set.
+Line 144: The property name _extentx in etxMovimento is invalid.
+Line 145: The property name _extenty in etxMovimento is invalid.
+Line 147: The property name tipo in etxMovimento is invalid.
+Line 148: The property name tipotexto in etxMovimento is invalid.
+Line 149: The property name possuidescricao in etxMovimento is invalid.
+Line 150: The property name campocriterio in etxMovimento is invalid.
+Line 151: The property name campodescricao in etxMovimento is invalid.
+Line 152: The property name tabelaconsulta in etxMovimento is invalid.
+Line 153: The property name tamanhodescricao in etxMovimento is invalid.
+Line 138: Property Font in etxMovimento could not be set.
+Line 161: The property name _extentx in etxCodigoMovimento is invalid.
+Line 162: The property name _extenty in etxCodigoMovimento is invalid.
+Line 164: The property name tipo in etxCodigoMovimento is invalid.
+Line 165: The property name tipotexto in etxCodigoMovimento is invalid.
+Line 166: The property name possuidescricao in etxCodigoMovimento is invalid.
+Line 167: The property name campocriterio in etxCodigoMovimento is invalid.
+Line 168: The property name campodescricao in etxCodigoMovimento is invalid.
+Line 169: The property name tabelaconsulta in etxCodigoMovimento is invalid.
+Line 170: The property name tamanhodescricao in etxCodigoMovimento is invalid.
+Line 155: Property Font in etxCodigoMovimento could not be set.
+Line 178: The property name _extentx in etxTipoCompTED is invalid.
+Line 179: The property name _extenty in etxTipoCompTED is invalid.
+Line 181: The property name tipo in etxTipoCompTED is invalid.
+Line 182: The property name tipotexto in etxTipoCompTED is invalid.
+Line 183: The property name possuidescricao in etxTipoCompTED is invalid.
+Line 184: The property name campocriterio in etxTipoCompTED is invalid.
+Line 185: The property name campodescricao in etxTipoCompTED is invalid.
+Line 186: The property name tabelaconsulta in etxTipoCompTED is invalid.
+Line 187: The property name tamanhodescricao in etxTipoCompTED is invalid.
+Line 172: Property Font in etxTipoCompTED could not be set.
+Line 195: The property name _extentx in etxFinalidadeTED is invalid.
+Line 196: The property name _extenty in etxFinalidadeTED is invalid.
+Line 198: The property name tipo in etxFinalidadeTED is invalid.
+Line 199: The property name tipotexto in etxFinalidadeTED is invalid.
+Line 200: The property name possuidescricao in etxFinalidadeTED is invalid.
+Line 201: The property name campocriterio in etxFinalidadeTED is invalid.
+Line 202: The property name campodescricao in etxFinalidadeTED is invalid.
+Line 203: The property name tabelaconsulta in etxFinalidadeTED is invalid.
+Line 204: The property name tamanhodescricao in etxFinalidadeTED is invalid.
+Line 189: Property Font in etxFinalidadeTED could not be set.
+Line 212: The property name _extentx in etxTipoConta is invalid.
+Line 213: The property name _extenty in etxTipoConta is invalid.
+Line 215: The property name tipo in etxTipoConta is invalid.
+Line 216: The property name tipotexto in etxTipoConta is invalid.
+Line 217: The property name possuidescricao in etxTipoConta is invalid.
+Line 218: The property name campocriterio in etxTipoConta is invalid.
+Line 219: The property name campodescricao in etxTipoConta is invalid.
+Line 220: The property name tabelaconsulta in etxTipoConta is invalid.
+Line 221: The property name tamanhodescricao in etxTipoConta is invalid.
+Line 206: Property Font in etxTipoConta could not be set.
+Line 318: The property name _extentx in etxNumeroLote is invalid.
+Line 319: The property name _extenty in etxNumeroLote is invalid.
+Line 321: The property name tipotexto in etxNumeroLote is invalid.
+Line 323: The property name tipocriterio in etxNumeroLote is invalid.
+Line 324: The property name alinhamento in etxNumeroLote is invalid.
+Line 312: Property Font in etxNumeroLote could not be set.
+Line 332: The property name _extentx in etxBancoDestinoArquivo is invalid.
+Line 333: The property name _extenty in etxBancoDestinoArquivo is invalid.
+Line 335: The property name tipotexto in etxBancoDestinoArquivo is invalid.
+Line 336: The property name maxlength in etxBancoDestinoArquivo is invalid.
+Line 337: The property name possuidescricao in etxBancoDestinoArquivo is invalid.
+Line 338: The property name campocriterio in etxBancoDestinoArquivo is invalid.
+Line 339: The property name tipocriterio in etxBancoDestinoArquivo is invalid.
+Line 340: The property name campodescricao in etxBancoDestinoArquivo is invalid.
+Line 341: The property name tabelaconsulta in etxBancoDestinoArquivo is invalid.
+Line 342: The property name tamanhodescricao in etxBancoDestinoArquivo is invalid.
+Line 343: The property name alinhamento in etxBancoDestinoArquivo is invalid.
+Line 326: Property Font in etxBancoDestinoArquivo could not be set.

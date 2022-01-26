@@ -1,0 +1,16 @@
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\10 Operadores Aritiméticos\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net5.0\OperadoresAritimeticos.exe
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\10 Operadores Aritiméticos\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net5.0\OperadoresAritimeticos.deps.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\10 Operadores Aritiméticos\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net5.0\OperadoresAritimeticos.runtimeconfig.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\10 Operadores Aritiméticos\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net5.0\OperadoresAritimeticos.runtimeconfig.dev.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\10 Operadores Aritiméticos\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net5.0\OperadoresAritimeticos.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\10 Operadores Aritiméticos\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net5.0\ref\OperadoresAritimeticos.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\10 Operadores Aritiméticos\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net5.0\OperadoresAritimeticos.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\10 Operadores Aritiméticos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net5.0\OperadoresAritimeticos.csproj.AssemblyReference.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\10 Operadores Aritiméticos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net5.0\OperadoresAritimeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\10 Operadores Aritiméticos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net5.0\OperadoresAritimeticos.AssemblyInfoInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\10 Operadores Aritiméticos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net5.0\OperadoresAritimeticos.AssemblyInfo.cs
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\10 Operadores Aritiméticos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net5.0\OperadoresAritimeticos.csproj.CoreCompileInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\10 Operadores Aritiméticos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net5.0\OperadoresAritimeticos.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\10 Operadores Aritiméticos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net5.0\ref\OperadoresAritimeticos.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\10 Operadores Aritiméticos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net5.0\OperadoresAritimeticos.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\10 Operadores Aritiméticos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net5.0\OperadoresAritimeticos.genruntimeconfig.cache

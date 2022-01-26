@@ -1,0 +1,16 @@
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\11 Entrada de Dados P1\EntradaDeDadosP1\EntradaDeDadosP1\bin\Debug\net5.0\EntradaDeDadosP1.exe
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\11 Entrada de Dados P1\EntradaDeDadosP1\EntradaDeDadosP1\bin\Debug\net5.0\EntradaDeDadosP1.deps.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\11 Entrada de Dados P1\EntradaDeDadosP1\EntradaDeDadosP1\bin\Debug\net5.0\EntradaDeDadosP1.runtimeconfig.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\11 Entrada de Dados P1\EntradaDeDadosP1\EntradaDeDadosP1\bin\Debug\net5.0\EntradaDeDadosP1.runtimeconfig.dev.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\11 Entrada de Dados P1\EntradaDeDadosP1\EntradaDeDadosP1\bin\Debug\net5.0\EntradaDeDadosP1.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\11 Entrada de Dados P1\EntradaDeDadosP1\EntradaDeDadosP1\bin\Debug\net5.0\ref\EntradaDeDadosP1.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\11 Entrada de Dados P1\EntradaDeDadosP1\EntradaDeDadosP1\bin\Debug\net5.0\EntradaDeDadosP1.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\11 Entrada de Dados P1\EntradaDeDadosP1\EntradaDeDadosP1\obj\Debug\net5.0\EntradaDeDadosP1.csproj.AssemblyReference.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\11 Entrada de Dados P1\EntradaDeDadosP1\EntradaDeDadosP1\obj\Debug\net5.0\EntradaDeDadosP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\11 Entrada de Dados P1\EntradaDeDadosP1\EntradaDeDadosP1\obj\Debug\net5.0\EntradaDeDadosP1.AssemblyInfoInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\11 Entrada de Dados P1\EntradaDeDadosP1\EntradaDeDadosP1\obj\Debug\net5.0\EntradaDeDadosP1.AssemblyInfo.cs
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\11 Entrada de Dados P1\EntradaDeDadosP1\EntradaDeDadosP1\obj\Debug\net5.0\EntradaDeDadosP1.csproj.CoreCompileInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\11 Entrada de Dados P1\EntradaDeDadosP1\EntradaDeDadosP1\obj\Debug\net5.0\EntradaDeDadosP1.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\11 Entrada de Dados P1\EntradaDeDadosP1\EntradaDeDadosP1\obj\Debug\net5.0\ref\EntradaDeDadosP1.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\11 Entrada de Dados P1\EntradaDeDadosP1\EntradaDeDadosP1\obj\Debug\net5.0\EntradaDeDadosP1.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\11 Entrada de Dados P1\EntradaDeDadosP1\EntradaDeDadosP1\obj\Debug\net5.0\EntradaDeDadosP1.genruntimeconfig.cache

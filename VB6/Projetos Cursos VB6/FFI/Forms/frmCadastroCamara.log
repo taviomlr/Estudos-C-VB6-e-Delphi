@@ -1,0 +1,87 @@
+Line 25: Class Fox.EBSText of control etxCodigo was not a loaded control class.
+Line 48: Class Fox.EBSCombo of control ecbStatus was not a loaded control class.
+Line 70: Class Fox.EBSText of control etxDescricao was not a loaded control class.
+Line 425: Class Fox.EBSText of control etxCodTipoServico was not a loaded control class.
+Line 447: Class Fox.EBSText of control etxDescTipoServico was not a loaded control class.
+Line 481: Class Fox.EBSText of control etxCodFormaLancamento was not a loaded control class.
+Line 515: Class Fox.EBSText of control etxCodTipoMovimento was not a loaded control class.
+Line 536: Class Fox.EBSText of control etxDescTipoMovimento was not a loaded control class.
+Line 569: Class Fox.EBSText of control etxCodMovimento was not a loaded control class.
+Line 591: Class Fox.EBSText of control etxDescCodMovimento was not a loaded control class.
+Line 613: Class Fox.EBSText of control etxDescFormaLancamento was not a loaded control class.
+Line 647: Class Fox.EBSText of control etxCodOcorrencia was not a loaded control class.
+Line 668: Class Fox.EBSText of control etxDescOcorrencia was not a loaded control class.
+Line 31: The property name _ExtentX in etxCodigo is invalid.
+Line 32: The property name _ExtentY in etxCodigo is invalid.
+Line 33: The property name TipoTexto in etxCodigo is invalid.
+Line 34: The property name MaxLength in etxCodigo is invalid.
+Line 35: The property name ValorSelecionado in etxCodigo is invalid.
+Line 36: The property name TipoCriterio in etxCodigo is invalid.
+Line 37: The property name Alinhamento in etxCodigo is invalid.
+Line 54: The property name _ExtentX in ecbStatus is invalid.
+Line 55: The property name _ExtentY in ecbStatus is invalid.
+Line 56: The property name OrigemDados in ecbStatus is invalid.
+Line 57: The property name Dados in ecbStatus is invalid.
+Line 58: The property name DadosAssist in ecbStatus is invalid.
+Line 59: The property name DefaultValue in ecbStatus is invalid.
+Line 76: The property name _ExtentX in etxDescricao is invalid.
+Line 77: The property name _ExtentY in etxDescricao is invalid.
+Line 78: The property name Tipo in etxDescricao is invalid.
+Line 79: The property name TipoTexto in etxDescricao is invalid.
+Line 80: The property name MaxLength in etxDescricao is invalid.
+Line 431: The property name _ExtentX in etxCodTipoServico is invalid.
+Line 432: The property name _ExtentY in etxCodTipoServico is invalid.
+Line 433: The property name Tipo in etxCodTipoServico is invalid.
+Line 434: The property name TipoTexto in etxCodTipoServico is invalid.
+Line 435: The property name MaxLength in etxCodTipoServico is invalid.
+Line 436: The property name ValorSelecionado in etxCodTipoServico is invalid.
+Line 453: The property name _ExtentX in etxDescTipoServico is invalid.
+Line 454: The property name _ExtentY in etxDescTipoServico is invalid.
+Line 455: The property name Tipo in etxDescTipoServico is invalid.
+Line 456: The property name TipoTexto in etxDescTipoServico is invalid.
+Line 457: The property name MaxLength in etxDescTipoServico is invalid.
+Line 458: The property name ValorSelecionado in etxDescTipoServico is invalid.
+Line 487: The property name _ExtentX in etxCodFormaLancamento is invalid.
+Line 488: The property name _ExtentY in etxCodFormaLancamento is invalid.
+Line 489: The property name Tipo in etxCodFormaLancamento is invalid.
+Line 490: The property name TipoTexto in etxCodFormaLancamento is invalid.
+Line 491: The property name MaxLength in etxCodFormaLancamento is invalid.
+Line 492: The property name ValorSelecionado in etxCodFormaLancamento is invalid.
+Line 521: The property name _ExtentX in etxCodTipoMovimento is invalid.
+Line 522: The property name _ExtentY in etxCodTipoMovimento is invalid.
+Line 523: The property name Tipo in etxCodTipoMovimento is invalid.
+Line 524: The property name TipoTexto in etxCodTipoMovimento is invalid.
+Line 525: The property name MaxLength in etxCodTipoMovimento is invalid.
+Line 542: The property name _ExtentX in etxDescTipoMovimento is invalid.
+Line 543: The property name _ExtentY in etxDescTipoMovimento is invalid.
+Line 544: The property name Tipo in etxDescTipoMovimento is invalid.
+Line 545: The property name TipoTexto in etxDescTipoMovimento is invalid.
+Line 546: The property name MaxLength in etxDescTipoMovimento is invalid.
+Line 575: The property name _ExtentX in etxCodMovimento is invalid.
+Line 576: The property name _ExtentY in etxCodMovimento is invalid.
+Line 577: The property name Tipo in etxCodMovimento is invalid.
+Line 578: The property name TipoTexto in etxCodMovimento is invalid.
+Line 579: The property name MaxLength in etxCodMovimento is invalid.
+Line 580: The property name ValorSelecionado in etxCodMovimento is invalid.
+Line 597: The property name _ExtentX in etxDescCodMovimento is invalid.
+Line 598: The property name _ExtentY in etxDescCodMovimento is invalid.
+Line 599: The property name Tipo in etxDescCodMovimento is invalid.
+Line 600: The property name TipoTexto in etxDescCodMovimento is invalid.
+Line 601: The property name MaxLength in etxDescCodMovimento is invalid.
+Line 602: The property name ValorSelecionado in etxDescCodMovimento is invalid.
+Line 619: The property name _ExtentX in etxDescFormaLancamento is invalid.
+Line 620: The property name _ExtentY in etxDescFormaLancamento is invalid.
+Line 621: The property name Tipo in etxDescFormaLancamento is invalid.
+Line 622: The property name TipoTexto in etxDescFormaLancamento is invalid.
+Line 623: The property name MaxLength in etxDescFormaLancamento is invalid.
+Line 624: The property name ValorSelecionado in etxDescFormaLancamento is invalid.
+Line 653: The property name _ExtentX in etxCodOcorrencia is invalid.
+Line 654: The property name _ExtentY in etxCodOcorrencia is invalid.
+Line 655: The property name Tipo in etxCodOcorrencia is invalid.
+Line 656: The property name TipoTexto in etxCodOcorrencia is invalid.
+Line 657: The property name MaxLength in etxCodOcorrencia is invalid.
+Line 674: The property name _ExtentX in etxDescOcorrencia is invalid.
+Line 675: The property name _ExtentY in etxDescOcorrencia is invalid.
+Line 676: The property name Tipo in etxDescOcorrencia is invalid.
+Line 677: The property name TipoTexto in etxDescOcorrencia is invalid.
+Line 678: The property name MaxLength in etxDescOcorrencia is invalid.

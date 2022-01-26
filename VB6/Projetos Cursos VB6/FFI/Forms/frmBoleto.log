@@ -1,0 +1,93 @@
+Line 74: Class Fox.EBSText of control etxTotalPedidos was not a loaded control class.
+Line 98: Class Fox.EBSText of control etxTotalSelecionados was not a loaded control class.
+Line 277: Class Fox.EBSCombo of control cboTipo was not a loaded control class.
+Line 297: Class Fox.EBSData of control etxDataInicial was not a loaded control class.
+Line 323: Class Fox.EBSText of control etxBanco was not a loaded control class.
+Line 349: Class Fox.EBSText of control etxCarteira was not a loaded control class.
+Line 376: Class Fox.EBSText of control etxNumeroInicial was not a loaded control class.
+Line 398: Class Fox.EBSText of control etxNumeroFinal was not a loaded control class.
+Line 420: Class Fox.EBSText of control etxParcelaInicial was not a loaded control class.
+Line 442: Class Fox.EBSText of control etxParcelaFinal was not a loaded control class.
+Line 464: Class Fox.EBSData of control etxDataFinal was not a loaded control class.
+Line 482: Class Fox.EBSCombo of control cboOrigem was not a loaded control class.
+Line 502: Class Fox.EBSText of control etxEmpresa was not a loaded control class.
+Line 80: The property name _ExtentX in etxTotalPedidos is invalid.
+Line 81: The property name _ExtentY in etxTotalPedidos is invalid.
+Line 82: The property name TipoTexto in etxTotalPedidos is invalid.
+Line 83: The property name MaxLength in etxTotalPedidos is invalid.
+Line 85: The property name TipoCriterio in etxTotalPedidos is invalid.
+Line 86: The property name Alinhamento in etxTotalPedidos is invalid.
+Line 87: The property name Locked in etxTotalPedidos is invalid.
+Line 104: The property name _ExtentX in etxTotalSelecionados is invalid.
+Line 105: The property name _ExtentY in etxTotalSelecionados is invalid.
+Line 106: The property name TipoTexto in etxTotalSelecionados is invalid.
+Line 107: The property name MaxLength in etxTotalSelecionados is invalid.
+Line 109: The property name TipoCriterio in etxTotalSelecionados is invalid.
+Line 110: The property name Alinhamento in etxTotalSelecionados is invalid.
+Line 111: The property name Locked in etxTotalSelecionados is invalid.
+Line 283: The property name _ExtentX in cboTipo is invalid.
+Line 284: The property name _ExtentY in cboTipo is invalid.
+Line 285: The property name Dados in cboTipo is invalid.
+Line 286: The property name DadosAssist in cboTipo is invalid.
+Line 303: The property name _ExtentX in etxDataInicial is invalid.
+Line 304: The property name _ExtentY in etxDataInicial is invalid.
+Line 329: The property name _ExtentX in etxBanco is invalid.
+Line 330: The property name _ExtentY in etxBanco is invalid.
+Line 331: The property name MaxLength in etxBanco is invalid.
+Line 332: The property name PossuiDescricao in etxBanco is invalid.
+Line 333: The property name CampoCriterio in etxBanco is invalid.
+Line 334: The property name TipoCriterio in etxBanco is invalid.
+Line 335: The property name CampoDescricao in etxBanco is invalid.
+Line 336: The property name TabelaConsulta in etxBanco is invalid.
+Line 337: The property name TamanhoDescricao in etxBanco is invalid.
+Line 338: The property name Alinhamento in etxBanco is invalid.
+Line 355: The property name _ExtentX in etxCarteira is invalid.
+Line 356: The property name _ExtentY in etxCarteira is invalid.
+Line 357: The property name TipoTexto in etxCarteira is invalid.
+Line 358: The property name MaxLength in etxCarteira is invalid.
+Line 359: The property name PossuiDescricao in etxCarteira is invalid.
+Line 360: The property name CampoCriterio in etxCarteira is invalid.
+Line 361: The property name TipoCriterio in etxCarteira is invalid.
+Line 362: The property name CampoDescricao in etxCarteira is invalid.
+Line 363: The property name TabelaConsulta in etxCarteira is invalid.
+Line 364: The property name TamanhoDescricao in etxCarteira is invalid.
+Line 365: The property name Alinhamento in etxCarteira is invalid.
+Line 382: The property name _ExtentX in etxNumeroInicial is invalid.
+Line 383: The property name _ExtentY in etxNumeroInicial is invalid.
+Line 384: The property name TipoTexto in etxNumeroInicial is invalid.
+Line 385: The property name MaxLength in etxNumeroInicial is invalid.
+Line 386: The property name TipoCriterio in etxNumeroInicial is invalid.
+Line 387: The property name Alinhamento in etxNumeroInicial is invalid.
+Line 404: The property name _ExtentX in etxNumeroFinal is invalid.
+Line 405: The property name _ExtentY in etxNumeroFinal is invalid.
+Line 406: The property name TipoTexto in etxNumeroFinal is invalid.
+Line 407: The property name MaxLength in etxNumeroFinal is invalid.
+Line 408: The property name TipoCriterio in etxNumeroFinal is invalid.
+Line 409: The property name Alinhamento in etxNumeroFinal is invalid.
+Line 426: The property name _ExtentX in etxParcelaInicial is invalid.
+Line 427: The property name _ExtentY in etxParcelaInicial is invalid.
+Line 428: The property name TipoTexto in etxParcelaInicial is invalid.
+Line 429: The property name MaxLength in etxParcelaInicial is invalid.
+Line 430: The property name TipoCriterio in etxParcelaInicial is invalid.
+Line 431: The property name Alinhamento in etxParcelaInicial is invalid.
+Line 448: The property name _ExtentX in etxParcelaFinal is invalid.
+Line 449: The property name _ExtentY in etxParcelaFinal is invalid.
+Line 450: The property name TipoTexto in etxParcelaFinal is invalid.
+Line 451: The property name MaxLength in etxParcelaFinal is invalid.
+Line 452: The property name TipoCriterio in etxParcelaFinal is invalid.
+Line 453: The property name Alinhamento in etxParcelaFinal is invalid.
+Line 470: The property name _ExtentX in etxDataFinal is invalid.
+Line 471: The property name _ExtentY in etxDataFinal is invalid.
+Line 488: The property name _ExtentX in cboOrigem is invalid.
+Line 489: The property name _ExtentY in cboOrigem is invalid.
+Line 490: The property name Dados in cboOrigem is invalid.
+Line 491: The property name DadosAssist in cboOrigem is invalid.
+Line 508: The property name _ExtentX in etxEmpresa is invalid.
+Line 509: The property name _ExtentY in etxEmpresa is invalid.
+Line 510: The property name Tipo in etxEmpresa is invalid.
+Line 511: The property name MaxLength in etxEmpresa is invalid.
+Line 512: The property name PossuiDescricao in etxEmpresa is invalid.
+Line 513: The property name CampoCriterio in etxEmpresa is invalid.
+Line 514: The property name CampoDescricao in etxEmpresa is invalid.
+Line 515: The property name TabelaConsulta in etxEmpresa is invalid.
+Line 516: The property name TamanhoDescricao in etxEmpresa is invalid.

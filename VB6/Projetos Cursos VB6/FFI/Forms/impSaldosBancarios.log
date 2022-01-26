@@ -1,0 +1,200 @@
+Line 15: Class ReportX.ReportSection of control ReportSection4 was not a loaded control class.
+Line 26: Class ReportX.ReportMain of control Imprimir was not a loaded control class.
+Line 36: Class ReportX.ReportSection of control ReportSection3 was not a loaded control class.
+Line 44: Class ReportX.ReportField of control field was not a loaded control class.
+Line 66: Class ReportX.ReportField of control field was not a loaded control class.
+Line 88: Class ReportX.ReportField of control field was not a loaded control class.
+Line 113: Class ReportX.ReportField of control field was not a loaded control class.
+Line 138: Class ReportX.ReportField of control field was not a loaded control class.
+Line 163: Class ReportX.ReportField of control field was not a loaded control class.
+Line 188: Class ReportX.ReportField of control field was not a loaded control class.
+Line 213: Class ReportX.ReportField of control field was not a loaded control class.
+Line 238: Class ReportX.ReportField of control field was not a loaded control class.
+Line 263: Class ReportX.ReportField of control field was not a loaded control class.
+Line 289: Class ReportX.ReportSection of control ReportSection2 was not a loaded control class.
+Line 299: Class ReportX.ReportField of control field was not a loaded control class.
+Line 320: Class ReportX.ReportField of control field was not a loaded control class.
+Line 341: Class ReportX.ReportField of control field was not a loaded control class.
+Line 363: Class ReportX.ReportField of control field was not a loaded control class.
+Line 385: Class ReportX.ReportField of control field was not a loaded control class.
+Line 407: Class ReportX.ReportField of control field was not a loaded control class.
+Line 429: Class ReportX.ReportField of control field was not a loaded control class.
+Line 451: Class ReportX.ReportField of control field was not a loaded control class.
+Line 473: Class ReportX.ReportField of control field was not a loaded control class.
+Line 495: Class ReportX.ReportField of control field was not a loaded control class.
+Line 524: Class ReportX.ReportSection of control ReportSection1 was not a loaded control class.
+Line 533: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 559: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 585: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 606: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 630: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 654: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 678: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 702: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 21: The property name _ExtentX in ReportSection4 is invalid.
+Line 22: The property name _ExtentY in ReportSection4 is invalid.
+Line 23: The property name Tipo in ReportSection4 is invalid.
+Line 24: The property name Ordem in ReportSection4 is invalid.
+Line 32: The property name _ExtentX in Imprimir is invalid.
+Line 33: The property name _ExtentY in Imprimir is invalid.
+Line 34: The property name Titulo in Imprimir is invalid.
+Line 42: The property name _ExtentX in ReportSection3 is invalid.
+Line 43: The property name _ExtentY in ReportSection3 is invalid.
+Line 51: The property name _ExtentX in field is invalid.
+Line 52: The property name _ExtentY in field is invalid.
+Line 53: The property name Campo in field is invalid.
+Line 54: The property name Caption in field is invalid.
+Line 73: The property name _ExtentX in field is invalid.
+Line 74: The property name _ExtentY in field is invalid.
+Line 75: The property name Campo in field is invalid.
+Line 76: The property name Caption in field is invalid.
+Line 95: The property name _ExtentX in field is invalid.
+Line 96: The property name _ExtentY in field is invalid.
+Line 97: The property name Campo in field is invalid.
+Line 98: The property name Formato in field is invalid.
+Line 99: The property name Caption in field is invalid.
+Line 100: The property name TipoCampo in field is invalid.
+Line 101: The property name Alignment in field is invalid.
+Line 120: The property name _ExtentX in field is invalid.
+Line 121: The property name _ExtentY in field is invalid.
+Line 122: The property name Campo in field is invalid.
+Line 123: The property name Formato in field is invalid.
+Line 124: The property name Caption in field is invalid.
+Line 125: The property name TipoCampo in field is invalid.
+Line 126: The property name Alignment in field is invalid.
+Line 145: The property name _ExtentX in field is invalid.
+Line 146: The property name _ExtentY in field is invalid.
+Line 147: The property name Campo in field is invalid.
+Line 148: The property name Formato in field is invalid.
+Line 149: The property name Caption in field is invalid.
+Line 150: The property name TipoCampo in field is invalid.
+Line 151: The property name Alignment in field is invalid.
+Line 170: The property name _ExtentX in field is invalid.
+Line 171: The property name _ExtentY in field is invalid.
+Line 172: The property name Campo in field is invalid.
+Line 173: The property name Formato in field is invalid.
+Line 174: The property name Caption in field is invalid.
+Line 175: The property name TipoCampo in field is invalid.
+Line 176: The property name Alignment in field is invalid.
+Line 195: The property name _ExtentX in field is invalid.
+Line 196: The property name _ExtentY in field is invalid.
+Line 197: The property name Campo in field is invalid.
+Line 198: The property name Formato in field is invalid.
+Line 199: The property name Caption in field is invalid.
+Line 200: The property name TipoCampo in field is invalid.
+Line 201: The property name Alignment in field is invalid.
+Line 220: The property name _ExtentX in field is invalid.
+Line 221: The property name _ExtentY in field is invalid.
+Line 222: The property name Campo in field is invalid.
+Line 223: The property name Formato in field is invalid.
+Line 224: The property name Caption in field is invalid.
+Line 225: The property name TipoCampo in field is invalid.
+Line 226: The property name Alignment in field is invalid.
+Line 245: The property name _ExtentX in field is invalid.
+Line 246: The property name _ExtentY in field is invalid.
+Line 247: The property name Campo in field is invalid.
+Line 248: The property name Formato in field is invalid.
+Line 249: The property name Caption in field is invalid.
+Line 250: The property name TipoCampo in field is invalid.
+Line 251: The property name Alignment in field is invalid.
+Line 270: The property name _ExtentX in field is invalid.
+Line 271: The property name _ExtentY in field is invalid.
+Line 272: The property name Campo in field is invalid.
+Line 273: The property name Formato in field is invalid.
+Line 274: The property name Caption in field is invalid.
+Line 275: The property name TipoCampo in field is invalid.
+Line 276: The property name Alignment in field is invalid.
+Line 295: The property name _ExtentX in ReportSection2 is invalid.
+Line 296: The property name _ExtentY in ReportSection2 is invalid.
+Line 297: The property name Tipo in ReportSection2 is invalid.
+Line 298: The property name Ordem in ReportSection2 is invalid.
+Line 306: The property name _ExtentX in field is invalid.
+Line 307: The property name _ExtentY in field is invalid.
+Line 308: The property name Caption in field is invalid.
+Line 327: The property name _ExtentX in field is invalid.
+Line 328: The property name _ExtentY in field is invalid.
+Line 329: The property name Caption in field is invalid.
+Line 348: The property name _ExtentX in field is invalid.
+Line 349: The property name _ExtentY in field is invalid.
+Line 350: The property name Caption in field is invalid.
+Line 351: The property name Alignment in field is invalid.
+Line 370: The property name _ExtentX in field is invalid.
+Line 371: The property name _ExtentY in field is invalid.
+Line 372: The property name Caption in field is invalid.
+Line 373: The property name Alignment in field is invalid.
+Line 392: The property name _ExtentX in field is invalid.
+Line 393: The property name _ExtentY in field is invalid.
+Line 394: The property name Caption in field is invalid.
+Line 395: The property name Alignment in field is invalid.
+Line 414: The property name _ExtentX in field is invalid.
+Line 415: The property name _ExtentY in field is invalid.
+Line 416: The property name Caption in field is invalid.
+Line 417: The property name Alignment in field is invalid.
+Line 436: The property name _ExtentX in field is invalid.
+Line 437: The property name _ExtentY in field is invalid.
+Line 438: The property name Caption in field is invalid.
+Line 439: The property name Alignment in field is invalid.
+Line 458: The property name _ExtentX in field is invalid.
+Line 459: The property name _ExtentY in field is invalid.
+Line 460: The property name Caption in field is invalid.
+Line 461: The property name Alignment in field is invalid.
+Line 480: The property name _ExtentX in field is invalid.
+Line 481: The property name _ExtentY in field is invalid.
+Line 482: The property name Caption in field is invalid.
+Line 483: The property name Alignment in field is invalid.
+Line 502: The property name _ExtentX in field is invalid.
+Line 503: The property name _ExtentY in field is invalid.
+Line 504: The property name Caption in field is invalid.
+Line 505: The property name Alignment in field is invalid.
+Line 530: The property name _ExtentX in ReportSection1 is invalid.
+Line 531: The property name _ExtentY in ReportSection1 is invalid.
+Line 532: The property name Tipo in ReportSection1 is invalid.
+Line 540: The property name _ExtentX in Campo is invalid.
+Line 541: The property name _ExtentY in Campo is invalid.
+Line 542: The property name Campo in Campo is invalid.
+Line 543: The property name Formato in Campo is invalid.
+Line 544: The property name Caption in Campo is invalid.
+Line 545: The property name TipoCampo in Campo is invalid.
+Line 546: The property name Formula in Campo is invalid.
+Line 547: The property name Alignment in Campo is invalid.
+Line 566: The property name _ExtentX in Campo is invalid.
+Line 567: The property name _ExtentY in Campo is invalid.
+Line 568: The property name Campo in Campo is invalid.
+Line 569: The property name Formato in Campo is invalid.
+Line 570: The property name Caption in Campo is invalid.
+Line 571: The property name TipoCampo in Campo is invalid.
+Line 572: The property name Formula in Campo is invalid.
+Line 573: The property name Alignment in Campo is invalid.
+Line 592: The property name _ExtentX in Campo is invalid.
+Line 593: The property name _ExtentY in Campo is invalid.
+Line 594: The property name Caption in Campo is invalid.
+Line 613: The property name _ExtentX in Campo is invalid.
+Line 614: The property name _ExtentY in Campo is invalid.
+Line 615: The property name Campo in Campo is invalid.
+Line 616: The property name Caption in Campo is invalid.
+Line 617: The property name Formula in Campo is invalid.
+Line 618: The property name Alignment in Campo is invalid.
+Line 637: The property name _ExtentX in Campo is invalid.
+Line 638: The property name _ExtentY in Campo is invalid.
+Line 639: The property name Campo in Campo is invalid.
+Line 640: The property name Caption in Campo is invalid.
+Line 641: The property name Formula in Campo is invalid.
+Line 642: The property name Alignment in Campo is invalid.
+Line 661: The property name _ExtentX in Campo is invalid.
+Line 662: The property name _ExtentY in Campo is invalid.
+Line 663: The property name Campo in Campo is invalid.
+Line 664: The property name Caption in Campo is invalid.
+Line 665: The property name Formula in Campo is invalid.
+Line 666: The property name Alignment in Campo is invalid.
+Line 685: The property name _ExtentX in Campo is invalid.
+Line 686: The property name _ExtentY in Campo is invalid.
+Line 687: The property name Campo in Campo is invalid.
+Line 688: The property name Caption in Campo is invalid.
+Line 689: The property name Formula in Campo is invalid.
+Line 690: The property name Alignment in Campo is invalid.
+Line 709: The property name _ExtentX in Campo is invalid.
+Line 710: The property name _ExtentY in Campo is invalid.
+Line 711: The property name Campo in Campo is invalid.
+Line 712: The property name Caption in Campo is invalid.
+Line 713: The property name Formula in Campo is invalid.
+Line 714: The property name Alignment in Campo is invalid.

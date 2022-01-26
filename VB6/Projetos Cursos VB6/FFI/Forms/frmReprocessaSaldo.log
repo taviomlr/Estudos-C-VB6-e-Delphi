@@ -1,0 +1,31 @@
+Line 32: Class Fox.EBSText of control etxBanco was not a loaded control class.
+Line 58: Class Fox.EBSText of control etxBancoFinal was not a loaded control class.
+Line 84: Class Fox.EBSData of control etdInicial was not a loaded control class.
+Line 103: Class Fox.EBSData of control etdFinal was not a loaded control class.
+Line 38: The property name _ExtentX in etxBanco is invalid.
+Line 39: The property name _ExtentY in etxBanco is invalid.
+Line 40: The property name MaxLength in etxBanco is invalid.
+Line 41: The property name PossuiDescricao in etxBanco is invalid.
+Line 42: The property name CampoCriterio in etxBanco is invalid.
+Line 43: The property name TipoCriterio in etxBanco is invalid.
+Line 44: The property name CampoDescricao in etxBanco is invalid.
+Line 45: The property name TabelaConsulta in etxBanco is invalid.
+Line 46: The property name Alinhamento in etxBanco is invalid.
+Line 56: The property name ExibeDescricao in etxBanco is invalid.
+Line 64: The property name _ExtentX in etxBancoFinal is invalid.
+Line 65: The property name _ExtentY in etxBancoFinal is invalid.
+Line 66: The property name MaxLength in etxBancoFinal is invalid.
+Line 67: The property name PossuiDescricao in etxBancoFinal is invalid.
+Line 68: The property name CampoCriterio in etxBancoFinal is invalid.
+Line 69: The property name TipoCriterio in etxBancoFinal is invalid.
+Line 70: The property name CampoDescricao in etxBancoFinal is invalid.
+Line 71: The property name TabelaConsulta in etxBancoFinal is invalid.
+Line 72: The property name Alinhamento in etxBancoFinal is invalid.
+Line 82: The property name ExibeDescricao in etxBancoFinal is invalid.
+Line 90: The property name _ExtentX in etdInicial is invalid.
+Line 91: The property name _ExtentY in etdInicial is invalid.
+Line 92: The property name Formato in etdInicial is invalid.
+Line 110: The property name _ExtentX in etdFinal is invalid.
+Line 111: The property name _ExtentY in etdFinal is invalid.
+Line 112: The property name Formato in etdFinal is invalid.
+Line 122: The property name Locked in etdFinal is invalid.

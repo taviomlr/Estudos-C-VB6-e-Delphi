@@ -1,0 +1,7 @@
+Line 65: Class Fox.EBSArquivo of control ebsImportarArquivo was not a loaded control class.
+Line 71: The property name _ExtentX in ebsImportarArquivo is invalid.
+Line 72: The property name _ExtentY in ebsImportarArquivo is invalid.
+Line 73: The property name Caption in ebsImportarArquivo is invalid.
+Line 74: The property name PosicaoCaption in ebsImportarArquivo is invalid.
+Line 75: The property name TipoTratamento in ebsImportarArquivo is invalid.
+Line 76: The property name Filter in ebsImportarArquivo is invalid.

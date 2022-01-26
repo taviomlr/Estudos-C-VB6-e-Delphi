@@ -1,0 +1,67 @@
+Line 145: Class Fox.EBSText of control etxCentroCustoRateio was not a loaded control class.
+Line 171: Class Fox.EBSText of control etxContaFinancRateio was not a loaded control class.
+Line 197: Class Fox.EBSText of control etxPorcentagemRateio was not a loaded control class.
+Line 221: Class Fox.EBSText of control etxValorRateio was not a loaded control class.
+Line 245: Class Fox.EBSText of control etxAbatimentoRateio was not a loaded control class.
+Line 269: Class Fox.EBSText of control etxAcrescimoRateio was not a loaded control class.
+Line 293: Class Fox.EBSText of control etxSaldoRestanteRateio was not a loaded control class.
+Line 151: The property name _ExtentX in etxCentroCustoRateio is invalid.
+Line 152: The property name _ExtentY in etxCentroCustoRateio is invalid.
+Line 153: The property name MaxLength in etxCentroCustoRateio is invalid.
+Line 154: The property name PossuiDescricao in etxCentroCustoRateio is invalid.
+Line 155: The property name CampoCriterio in etxCentroCustoRateio is invalid.
+Line 156: The property name TipoCriterio in etxCentroCustoRateio is invalid.
+Line 157: The property name CampoDescricao in etxCentroCustoRateio is invalid.
+Line 158: The property name TabelaConsulta in etxCentroCustoRateio is invalid.
+Line 159: The property name TamanhoDescricao in etxCentroCustoRateio is invalid.
+Line 160: The property name Alinhamento in etxCentroCustoRateio is invalid.
+Line 177: The property name _ExtentX in etxContaFinancRateio is invalid.
+Line 178: The property name _ExtentY in etxContaFinancRateio is invalid.
+Line 179: The property name MaxLength in etxContaFinancRateio is invalid.
+Line 180: The property name PossuiDescricao in etxContaFinancRateio is invalid.
+Line 181: The property name CampoCriterio in etxContaFinancRateio is invalid.
+Line 182: The property name TipoCriterio in etxContaFinancRateio is invalid.
+Line 183: The property name CampoDescricao in etxContaFinancRateio is invalid.
+Line 184: The property name TabelaConsulta in etxContaFinancRateio is invalid.
+Line 185: The property name TamanhoDescricao in etxContaFinancRateio is invalid.
+Line 186: The property name Alinhamento in etxContaFinancRateio is invalid.
+Line 203: The property name _ExtentX in etxPorcentagemRateio is invalid.
+Line 204: The property name _ExtentY in etxPorcentagemRateio is invalid.
+Line 205: The property name Tipo in etxPorcentagemRateio is invalid.
+Line 206: The property name CasasDecimais in etxPorcentagemRateio is invalid.
+Line 207: The property name MaxLength in etxPorcentagemRateio is invalid.
+Line 208: The property name TipoCriterio in etxPorcentagemRateio is invalid.
+Line 209: The property name Alinhamento in etxPorcentagemRateio is invalid.
+Line 210: The property name Mascara in etxPorcentagemRateio is invalid.
+Line 227: The property name _ExtentX in etxValorRateio is invalid.
+Line 228: The property name _ExtentY in etxValorRateio is invalid.
+Line 229: The property name Tipo in etxValorRateio is invalid.
+Line 230: The property name CasasDecimais in etxValorRateio is invalid.
+Line 231: The property name MaxLength in etxValorRateio is invalid.
+Line 232: The property name TipoCriterio in etxValorRateio is invalid.
+Line 233: The property name Alinhamento in etxValorRateio is invalid.
+Line 234: The property name Mascara in etxValorRateio is invalid.
+Line 251: The property name _ExtentX in etxAbatimentoRateio is invalid.
+Line 252: The property name _ExtentY in etxAbatimentoRateio is invalid.
+Line 253: The property name Tipo in etxAbatimentoRateio is invalid.
+Line 254: The property name CasasDecimais in etxAbatimentoRateio is invalid.
+Line 255: The property name MaxLength in etxAbatimentoRateio is invalid.
+Line 256: The property name TipoCriterio in etxAbatimentoRateio is invalid.
+Line 257: The property name Alinhamento in etxAbatimentoRateio is invalid.
+Line 258: The property name Mascara in etxAbatimentoRateio is invalid.
+Line 275: The property name _ExtentX in etxAcrescimoRateio is invalid.
+Line 276: The property name _ExtentY in etxAcrescimoRateio is invalid.
+Line 277: The property name Tipo in etxAcrescimoRateio is invalid.
+Line 278: The property name CasasDecimais in etxAcrescimoRateio is invalid.
+Line 279: The property name MaxLength in etxAcrescimoRateio is invalid.
+Line 280: The property name TipoCriterio in etxAcrescimoRateio is invalid.
+Line 281: The property name Alinhamento in etxAcrescimoRateio is invalid.
+Line 282: The property name Mascara in etxAcrescimoRateio is invalid.
+Line 299: The property name _ExtentX in etxSaldoRestanteRateio is invalid.
+Line 300: The property name _ExtentY in etxSaldoRestanteRateio is invalid.
+Line 301: The property name Tipo in etxSaldoRestanteRateio is invalid.
+Line 302: The property name CasasDecimais in etxSaldoRestanteRateio is invalid.
+Line 303: The property name MaxLength in etxSaldoRestanteRateio is invalid.
+Line 305: The property name TipoCriterio in etxSaldoRestanteRateio is invalid.
+Line 306: The property name Alinhamento in etxSaldoRestanteRateio is invalid.
+Line 307: The property name Mascara in etxSaldoRestanteRateio is invalid.

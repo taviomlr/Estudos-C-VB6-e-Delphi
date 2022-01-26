@@ -1,0 +1,304 @@
+Line 15: Class ReportX.ReportSection of control RodapeMes was not a loaded control class.
+Line 25: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 51: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 73: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 99: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 126: Class ReportX.ReportSection of control CebecalhoMes was not a loaded control class.
+Line 137: Class ReportX.ReportSection of control Rodape was not a loaded control class.
+Line 146: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 172: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 198: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 224: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 249: Class ReportX.ReportSection of control RodapeSaldo was not a loaded control class.
+Line 259: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 285: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 311: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 337: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 368: Class ReportX.ReportSection of control RodapeCabecalho was not a loaded control class.
+Line 379: Class ReportX.ReportSection of control QuebraSaldo was not a loaded control class.
+Line 389: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 410: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 433: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 455: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 476: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 509: Class ReportX.ReportSection of control Detalhe was not a loaded control class.
+Line 518: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 543: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 568: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 593: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 616: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 638: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 661: Class ReportX.ReportSection of control QuebraCabecalho was not a loaded control class.
+Line 671: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 692: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 713: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 734: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 756: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 778: Class ReportX.ReportField of control cmpFluxo was not a loaded control class.
+Line 801: Class ReportX.ReportMain of control Imprimir was not a loaded control class.
+Line 818: Class ReportX.ReportSection of control Titulo was not a loaded control class.
+Line 827: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 852: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 878: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 899: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 923: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 947: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 971: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 995: Class ReportX.ReportField of control Campo was not a loaded control class.
+Line 21: The property name _ExtentX in RodapeMes is invalid.
+Line 22: The property name _ExtentY in RodapeMes is invalid.
+Line 23: The property name Tipo in RodapeMes is invalid.
+Line 24: The property name Ordem in RodapeMes is invalid.
+Line 32: The property name _ExtentX in cmpFluxo is invalid.
+Line 33: The property name _ExtentY in cmpFluxo is invalid.
+Line 34: The property name Campo in cmpFluxo is invalid.
+Line 35: The property name Formato in cmpFluxo is invalid.
+Line 36: The property name Caption in cmpFluxo is invalid.
+Line 37: The property name TipoCampo in cmpFluxo is invalid.
+Line 38: The property name Formula in cmpFluxo is invalid.
+Line 39: The property name Alignment in cmpFluxo is invalid.
+Line 58: The property name _ExtentX in cmpFluxo is invalid.
+Line 59: The property name _ExtentY in cmpFluxo is invalid.
+Line 60: The property name Caption in cmpFluxo is invalid.
+Line 61: The property name Alignment in cmpFluxo is invalid.
+Line 80: The property name _ExtentX in cmpFluxo is invalid.
+Line 81: The property name _ExtentY in cmpFluxo is invalid.
+Line 82: The property name Campo in cmpFluxo is invalid.
+Line 83: The property name Formato in cmpFluxo is invalid.
+Line 84: The property name Caption in cmpFluxo is invalid.
+Line 85: The property name TipoCampo in cmpFluxo is invalid.
+Line 86: The property name Formula in cmpFluxo is invalid.
+Line 87: The property name Alignment in cmpFluxo is invalid.
+Line 106: The property name _ExtentX in cmpFluxo is invalid.
+Line 107: The property name _ExtentY in cmpFluxo is invalid.
+Line 108: The property name Campo in cmpFluxo is invalid.
+Line 109: The property name Formato in cmpFluxo is invalid.
+Line 110: The property name Caption in cmpFluxo is invalid.
+Line 111: The property name TipoCampo in cmpFluxo is invalid.
+Line 112: The property name Formula in cmpFluxo is invalid.
+Line 113: The property name Alignment in cmpFluxo is invalid.
+Line 132: The property name _ExtentX in CebecalhoMes is invalid.
+Line 133: The property name _ExtentY in CebecalhoMes is invalid.
+Line 134: The property name Tipo in CebecalhoMes is invalid.
+Line 135: The property name Ordem in CebecalhoMes is invalid.
+Line 143: The property name _ExtentX in Rodape is invalid.
+Line 144: The property name _ExtentY in Rodape is invalid.
+Line 145: The property name Tipo in Rodape is invalid.
+Line 153: The property name _ExtentX in cmpFluxo is invalid.
+Line 154: The property name _ExtentY in cmpFluxo is invalid.
+Line 155: The property name Campo in cmpFluxo is invalid.
+Line 156: The property name Formato in cmpFluxo is invalid.
+Line 157: The property name Caption in cmpFluxo is invalid.
+Line 158: The property name TipoCampo in cmpFluxo is invalid.
+Line 159: The property name Formula in cmpFluxo is invalid.
+Line 160: The property name Alignment in cmpFluxo is invalid.
+Line 179: The property name _ExtentX in cmpFluxo is invalid.
+Line 180: The property name _ExtentY in cmpFluxo is invalid.
+Line 181: The property name Campo in cmpFluxo is invalid.
+Line 182: The property name Formato in cmpFluxo is invalid.
+Line 183: The property name Caption in cmpFluxo is invalid.
+Line 184: The property name TipoCampo in cmpFluxo is invalid.
+Line 185: The property name Formula in cmpFluxo is invalid.
+Line 186: The property name Alignment in cmpFluxo is invalid.
+Line 205: The property name _ExtentX in cmpFluxo is invalid.
+Line 206: The property name _ExtentY in cmpFluxo is invalid.
+Line 207: The property name Campo in cmpFluxo is invalid.
+Line 208: The property name Formato in cmpFluxo is invalid.
+Line 209: The property name Caption in cmpFluxo is invalid.
+Line 210: The property name TipoCampo in cmpFluxo is invalid.
+Line 211: The property name Formula in cmpFluxo is invalid.
+Line 212: The property name Alignment in cmpFluxo is invalid.
+Line 231: The property name _ExtentX in cmpFluxo is invalid.
+Line 232: The property name _ExtentY in cmpFluxo is invalid.
+Line 233: The property name Formato in cmpFluxo is invalid.
+Line 234: The property name Caption in cmpFluxo is invalid.
+Line 235: The property name TipoCampo in cmpFluxo is invalid.
+Line 236: The property name Alignment in cmpFluxo is invalid.
+Line 255: The property name _ExtentX in RodapeSaldo is invalid.
+Line 256: The property name _ExtentY in RodapeSaldo is invalid.
+Line 257: The property name Tipo in RodapeSaldo is invalid.
+Line 258: The property name Ordem in RodapeSaldo is invalid.
+Line 266: The property name _ExtentX in cmpFluxo is invalid.
+Line 267: The property name _ExtentY in cmpFluxo is invalid.
+Line 268: The property name Campo in cmpFluxo is invalid.
+Line 269: The property name Formato in cmpFluxo is invalid.
+Line 270: The property name Caption in cmpFluxo is invalid.
+Line 271: The property name TipoCampo in cmpFluxo is invalid.
+Line 272: The property name Formula in cmpFluxo is invalid.
+Line 273: The property name Alignment in cmpFluxo is invalid.
+Line 292: The property name _ExtentX in cmpFluxo is invalid.
+Line 293: The property name _ExtentY in cmpFluxo is invalid.
+Line 294: The property name Campo in cmpFluxo is invalid.
+Line 295: The property name Formato in cmpFluxo is invalid.
+Line 296: The property name Caption in cmpFluxo is invalid.
+Line 297: The property name TipoCampo in cmpFluxo is invalid.
+Line 298: The property name Formula in cmpFluxo is invalid.
+Line 299: The property name Alignment in cmpFluxo is invalid.
+Line 318: The property name _ExtentX in cmpFluxo is invalid.
+Line 319: The property name _ExtentY in cmpFluxo is invalid.
+Line 320: The property name Campo in cmpFluxo is invalid.
+Line 321: The property name Formato in cmpFluxo is invalid.
+Line 322: The property name Caption in cmpFluxo is invalid.
+Line 323: The property name TipoCampo in cmpFluxo is invalid.
+Line 324: The property name Formula in cmpFluxo is invalid.
+Line 325: The property name Alignment in cmpFluxo is invalid.
+Line 344: The property name _ExtentX in cmpFluxo is invalid.
+Line 345: The property name _ExtentY in cmpFluxo is invalid.
+Line 346: The property name Formato in cmpFluxo is invalid.
+Line 347: The property name Caption in cmpFluxo is invalid.
+Line 348: The property name TipoCampo in cmpFluxo is invalid.
+Line 349: The property name Alignment in cmpFluxo is invalid.
+Line 374: The property name _ExtentX in RodapeCabecalho is invalid.
+Line 375: The property name _ExtentY in RodapeCabecalho is invalid.
+Line 376: The property name Tipo in RodapeCabecalho is invalid.
+Line 377: The property name Ordem in RodapeCabecalho is invalid.
+Line 385: The property name _ExtentX in QuebraSaldo is invalid.
+Line 386: The property name _ExtentY in QuebraSaldo is invalid.
+Line 387: The property name Tipo in QuebraSaldo is invalid.
+Line 388: The property name Ordem in QuebraSaldo is invalid.
+Line 396: The property name _ExtentX in cmpFluxo is invalid.
+Line 397: The property name _ExtentY in cmpFluxo is invalid.
+Line 398: The property name Caption in cmpFluxo is invalid.
+Line 417: The property name _ExtentX in cmpFluxo is invalid.
+Line 418: The property name _ExtentY in cmpFluxo is invalid.
+Line 419: The property name Campo in cmpFluxo is invalid.
+Line 420: The property name Caption in cmpFluxo is invalid.
+Line 421: The property name Formula in cmpFluxo is invalid.
+Line 440: The property name _ExtentX in cmpFluxo is invalid.
+Line 441: The property name _ExtentY in cmpFluxo is invalid.
+Line 442: The property name Campo in cmpFluxo is invalid.
+Line 443: The property name Caption in cmpFluxo is invalid.
+Line 462: The property name _ExtentX in cmpFluxo is invalid.
+Line 463: The property name _ExtentY in cmpFluxo is invalid.
+Line 464: The property name Caption in cmpFluxo is invalid.
+Line 483: The property name _ExtentX in cmpFluxo is invalid.
+Line 484: The property name _ExtentY in cmpFluxo is invalid.
+Line 485: The property name Campo in cmpFluxo is invalid.
+Line 486: The property name Formato in cmpFluxo is invalid.
+Line 487: The property name Caption in cmpFluxo is invalid.
+Line 488: The property name TipoCampo in cmpFluxo is invalid.
+Line 489: The property name Formula in cmpFluxo is invalid.
+Line 490: The property name Alignment in cmpFluxo is invalid.
+Line 515: The property name _ExtentX in Detalhe is invalid.
+Line 516: The property name _ExtentY in Detalhe is invalid.
+Line 517: The property name Ordem in Detalhe is invalid.
+Line 525: The property name _ExtentX in cmpFluxo is invalid.
+Line 526: The property name _ExtentY in cmpFluxo is invalid.
+Line 527: The property name Campo in cmpFluxo is invalid.
+Line 528: The property name Formato in cmpFluxo is invalid.
+Line 529: The property name Caption in cmpFluxo is invalid.
+Line 530: The property name TipoCampo in cmpFluxo is invalid.
+Line 531: The property name Alignment in cmpFluxo is invalid.
+Line 550: The property name _ExtentX in cmpFluxo is invalid.
+Line 551: The property name _ExtentY in cmpFluxo is invalid.
+Line 552: The property name Campo in cmpFluxo is invalid.
+Line 553: The property name Formato in cmpFluxo is invalid.
+Line 554: The property name Caption in cmpFluxo is invalid.
+Line 555: The property name TipoCampo in cmpFluxo is invalid.
+Line 556: The property name Alignment in cmpFluxo is invalid.
+Line 575: The property name _ExtentX in cmpFluxo is invalid.
+Line 576: The property name _ExtentY in cmpFluxo is invalid.
+Line 577: The property name Campo in cmpFluxo is invalid.
+Line 578: The property name Formato in cmpFluxo is invalid.
+Line 579: The property name Caption in cmpFluxo is invalid.
+Line 580: The property name TipoCampo in cmpFluxo is invalid.
+Line 581: The property name Alignment in cmpFluxo is invalid.
+Line 600: The property name _ExtentX in cmpFluxo is invalid.
+Line 601: The property name _ExtentY in cmpFluxo is invalid.
+Line 602: The property name Campo in cmpFluxo is invalid.
+Line 603: The property name Caption in cmpFluxo is invalid.
+Line 604: The property name Formula in cmpFluxo is invalid.
+Line 623: The property name _ExtentX in cmpFluxo is invalid.
+Line 624: The property name _ExtentY in cmpFluxo is invalid.
+Line 625: The property name Campo in cmpFluxo is invalid.
+Line 626: The property name Caption in cmpFluxo is invalid.
+Line 645: The property name _ExtentX in cmpFluxo is invalid.
+Line 646: The property name _ExtentY in cmpFluxo is invalid.
+Line 647: The property name Campo in cmpFluxo is invalid.
+Line 648: The property name Caption in cmpFluxo is invalid.
+Line 667: The property name _ExtentX in QuebraCabecalho is invalid.
+Line 668: The property name _ExtentY in QuebraCabecalho is invalid.
+Line 669: The property name Tipo in QuebraCabecalho is invalid.
+Line 670: The property name Ordem in QuebraCabecalho is invalid.
+Line 678: The property name _ExtentX in cmpFluxo is invalid.
+Line 679: The property name _ExtentY in cmpFluxo is invalid.
+Line 680: The property name Caption in cmpFluxo is invalid.
+Line 699: The property name _ExtentX in cmpFluxo is invalid.
+Line 700: The property name _ExtentY in cmpFluxo is invalid.
+Line 701: The property name Caption in cmpFluxo is invalid.
+Line 720: The property name _ExtentX in cmpFluxo is invalid.
+Line 721: The property name _ExtentY in cmpFluxo is invalid.
+Line 722: The property name Caption in cmpFluxo is invalid.
+Line 741: The property name _ExtentX in cmpFluxo is invalid.
+Line 742: The property name _ExtentY in cmpFluxo is invalid.
+Line 743: The property name Caption in cmpFluxo is invalid.
+Line 744: The property name Alignment in cmpFluxo is invalid.
+Line 763: The property name _ExtentX in cmpFluxo is invalid.
+Line 764: The property name _ExtentY in cmpFluxo is invalid.
+Line 765: The property name Caption in cmpFluxo is invalid.
+Line 766: The property name Alignment in cmpFluxo is invalid.
+Line 785: The property name _ExtentX in cmpFluxo is invalid.
+Line 786: The property name _ExtentY in cmpFluxo is invalid.
+Line 787: The property name Caption in cmpFluxo is invalid.
+Line 788: The property name Alignment in cmpFluxo is invalid.
+Line 807: The property name _ExtentX in Imprimir is invalid.
+Line 808: The property name _ExtentY in Imprimir is invalid.
+Line 809: The property name Divisao in Imprimir is invalid.
+Line 810: The property name Regua in Imprimir is invalid.
+Line 811: The property name MargemEsquerda in Imprimir is invalid.
+Line 812: The property name MargemDireita in Imprimir is invalid.
+Line 813: The property name MargemSuperior in Imprimir is invalid.
+Line 814: The property name MargemInferior in Imprimir is invalid.
+Line 815: The property name Titulo in Imprimir is invalid.
+Line 816: The property name HTMLUnico in Imprimir is invalid.
+Line 824: The property name _ExtentX in Titulo is invalid.
+Line 825: The property name _ExtentY in Titulo is invalid.
+Line 826: The property name Tipo in Titulo is invalid.
+Line 834: The property name _ExtentX in Campo is invalid.
+Line 835: The property name _ExtentY in Campo is invalid.
+Line 836: The property name Formato in Campo is invalid.
+Line 837: The property name Caption in Campo is invalid.
+Line 838: The property name TipoCampo in Campo is invalid.
+Line 839: The property name Formula in Campo is invalid.
+Line 840: The property name Alignment in Campo is invalid.
+Line 859: The property name _ExtentX in Campo is invalid.
+Line 860: The property name _ExtentY in Campo is invalid.
+Line 861: The property name Campo in Campo is invalid.
+Line 862: The property name Formato in Campo is invalid.
+Line 863: The property name Caption in Campo is invalid.
+Line 864: The property name TipoCampo in Campo is invalid.
+Line 865: The property name Formula in Campo is invalid.
+Line 866: The property name Alignment in Campo is invalid.
+Line 885: The property name _ExtentX in Campo is invalid.
+Line 886: The property name _ExtentY in Campo is invalid.
+Line 887: The property name Caption in Campo is invalid.
+Line 906: The property name _ExtentX in Campo is invalid.
+Line 907: The property name _ExtentY in Campo is invalid.
+Line 908: The property name Campo in Campo is invalid.
+Line 909: The property name Caption in Campo is invalid.
+Line 910: The property name Formula in Campo is invalid.
+Line 911: The property name Alignment in Campo is invalid.
+Line 930: The property name _ExtentX in Campo is invalid.
+Line 931: The property name _ExtentY in Campo is invalid.
+Line 932: The property name Campo in Campo is invalid.
+Line 933: The property name Caption in Campo is invalid.
+Line 934: The property name Formula in Campo is invalid.
+Line 935: The property name Alignment in Campo is invalid.
+Line 954: The property name _ExtentX in Campo is invalid.
+Line 955: The property name _ExtentY in Campo is invalid.
+Line 956: The property name Campo in Campo is invalid.
+Line 957: The property name Caption in Campo is invalid.
+Line 958: The property name Formula in Campo is invalid.
+Line 959: The property name Alignment in Campo is invalid.
+Line 978: The property name _ExtentX in Campo is invalid.
+Line 979: The property name _ExtentY in Campo is invalid.
+Line 980: The property name Campo in Campo is invalid.
+Line 981: The property name Caption in Campo is invalid.
+Line 982: The property name Formula in Campo is invalid.
+Line 983: The property name Alignment in Campo is invalid.
+Line 1002: The property name _ExtentX in Campo is invalid.
+Line 1003: The property name _ExtentY in Campo is invalid.
+Line 1004: The property name Campo in Campo is invalid.
+Line 1005: The property name Caption in Campo is invalid.
+Line 1006: The property name Formula in Campo is invalid.
+Line 1007: The property name Alignment in Campo is invalid.

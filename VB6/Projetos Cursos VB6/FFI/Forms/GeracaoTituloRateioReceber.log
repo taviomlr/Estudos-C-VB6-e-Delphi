@@ -1,0 +1,34 @@
+Line 70: Class Fox.EBSText of control etxCentroCusto was not a loaded control class.
+Line 97: Class Fox.EBSText of control etxConta was not a loaded control class.
+Line 124: Class Fox.EBSText of control etxPercentual was not a loaded control class.
+Line 76: The property name _ExtentX in etxCentroCusto is invalid.
+Line 77: The property name _ExtentY in etxCentroCusto is invalid.
+Line 78: The property name TipoTexto in etxCentroCusto is invalid.
+Line 79: The property name MaxLength in etxCentroCusto is invalid.
+Line 80: The property name PossuiDescricao in etxCentroCusto is invalid.
+Line 81: The property name CampoCriterio in etxCentroCusto is invalid.
+Line 82: The property name TipoCriterio in etxCentroCusto is invalid.
+Line 83: The property name CampoDescricao in etxCentroCusto is invalid.
+Line 84: The property name TabelaConsulta in etxCentroCusto is invalid.
+Line 85: The property name Alinhamento in etxCentroCusto is invalid.
+Line 95: The property name ExibeDescricao in etxCentroCusto is invalid.
+Line 103: The property name _ExtentX in etxConta is invalid.
+Line 104: The property name _ExtentY in etxConta is invalid.
+Line 105: The property name TipoTexto in etxConta is invalid.
+Line 106: The property name MaxLength in etxConta is invalid.
+Line 107: The property name PossuiDescricao in etxConta is invalid.
+Line 108: The property name CampoCriterio in etxConta is invalid.
+Line 109: The property name TipoCriterio in etxConta is invalid.
+Line 110: The property name CampoDescricao in etxConta is invalid.
+Line 111: The property name TabelaConsulta in etxConta is invalid.
+Line 112: The property name Alinhamento in etxConta is invalid.
+Line 122: The property name ExibeDescricao in etxConta is invalid.
+Line 130: The property name _ExtentX in etxPercentual is invalid.
+Line 131: The property name _ExtentY in etxPercentual is invalid.
+Line 132: The property name Tipo in etxPercentual is invalid.
+Line 133: The property name CasasDecimais in etxPercentual is invalid.
+Line 134: The property name TipoTexto in etxPercentual is invalid.
+Line 135: The property name MaxLength in etxPercentual is invalid.
+Line 136: The property name TipoCriterio in etxPercentual is invalid.
+Line 137: The property name Alinhamento in etxPercentual is invalid.
+Line 138: The property name Mascara in etxPercentual is invalid.

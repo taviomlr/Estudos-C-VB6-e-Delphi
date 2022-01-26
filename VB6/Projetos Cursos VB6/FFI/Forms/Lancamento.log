@@ -1,0 +1,47 @@
+Line 115: Class Fox.EBSText of control etxCobrancaEndereco was not a loaded control class.
+Line 130: Class Fox.EBSText of control etxCobrancaBairro was not a loaded control class.
+Line 146: Class Fox.EBSText of control etxCobrancaCep was not a loaded control class.
+Line 162: Class Fox.EBSText of control etxCobrancaCidade was not a loaded control class.
+Line 177: Class Fox.EBSText of control etxCobrancaEstado was not a loaded control class.
+Line 121: The property name _extentx in etxCobrancaEndereco is invalid.
+Line 122: The property name _extenty in etxCobrancaEndereco is invalid.
+Line 124: The property name tipo in etxCobrancaEndereco is invalid.
+Line 125: The property name tipotexto in etxCobrancaEndereco is invalid.
+Line 126: The property name maxlength in etxCobrancaEndereco is invalid.
+Line 127: The property name locked in etxCobrancaEndereco is invalid.
+Line 128: The property name exibedescricao in etxCobrancaEndereco is invalid.
+Line 115: Property Font in etxCobrancaEndereco could not be set.
+Line 136: The property name _extentx in etxCobrancaBairro is invalid.
+Line 137: The property name _extenty in etxCobrancaBairro is invalid.
+Line 139: The property name tipo in etxCobrancaBairro is invalid.
+Line 140: The property name tipotexto in etxCobrancaBairro is invalid.
+Line 141: The property name maxlength in etxCobrancaBairro is invalid.
+Line 142: The property name caption in etxCobrancaBairro is invalid.
+Line 143: The property name locked in etxCobrancaBairro is invalid.
+Line 144: The property name exibedescricao in etxCobrancaBairro is invalid.
+Line 130: Property Font in etxCobrancaBairro could not be set.
+Line 152: The property name _extentx in etxCobrancaCep is invalid.
+Line 153: The property name _extenty in etxCobrancaCep is invalid.
+Line 155: The property name tipo in etxCobrancaCep is invalid.
+Line 156: The property name tipotexto in etxCobrancaCep is invalid.
+Line 157: The property name maxlength in etxCobrancaCep is invalid.
+Line 158: The property name caption in etxCobrancaCep is invalid.
+Line 159: The property name locked in etxCobrancaCep is invalid.
+Line 160: The property name exibedescricao in etxCobrancaCep is invalid.
+Line 146: Property Font in etxCobrancaCep could not be set.
+Line 168: The property name _extentx in etxCobrancaCidade is invalid.
+Line 169: The property name _extenty in etxCobrancaCidade is invalid.
+Line 171: The property name tipo in etxCobrancaCidade is invalid.
+Line 172: The property name tipotexto in etxCobrancaCidade is invalid.
+Line 173: The property name maxlength in etxCobrancaCidade is invalid.
+Line 174: The property name locked in etxCobrancaCidade is invalid.
+Line 175: The property name exibedescricao in etxCobrancaCidade is invalid.
+Line 162: Property Font in etxCobrancaCidade could not be set.
+Line 183: The property name _extentx in etxCobrancaEstado is invalid.
+Line 184: The property name _extenty in etxCobrancaEstado is invalid.
+Line 186: The property name tipo in etxCobrancaEstado is invalid.
+Line 187: The property name tipotexto in etxCobrancaEstado is invalid.
+Line 188: The property name maxlength in etxCobrancaEstado is invalid.
+Line 189: The property name locked in etxCobrancaEstado is invalid.
+Line 190: The property name exibedescricao in etxCobrancaEstado is invalid.
+Line 177: Property Font in etxCobrancaEstado could not be set.

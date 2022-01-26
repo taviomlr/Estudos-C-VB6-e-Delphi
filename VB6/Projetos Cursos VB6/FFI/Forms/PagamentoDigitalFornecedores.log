@@ -1,0 +1,76 @@
+Line 198: Class Fox.EBSText of control etxRegistrosMarcados was not a loaded control class.
+Line 220: Class Fox.EBSText of control etxTotalMarcados was not a loaded control class.
+Line 245: Class Fox.EBSText of control etxTotalRegistros was not a loaded control class.
+Line 270: Class Fox.EBSText of control etxRegistrosLocalizados was not a loaded control class.
+Line 353: Class Fox.EBSCombo of control ecbBancos was not a loaded control class.
+Line 373: Class Fox.EBSData of control edtPagamentoInicial was not a loaded control class.
+Line 391: Class Fox.EBSData of control edtPagamentoFinal was not a loaded control class.
+Line 409: Class Fox.EBSCombo of control ecbOrigemDocumentos was not a loaded control class.
+Line 431: Class Fox.EBSCombo of control ecbTipoRegistro was not a loaded control class.
+Line 451: Class Fox.EBSText of control etxCamara was not a loaded control class.
+Line 576: Class Fox.EBSText of control etxNumeroLote was not a loaded control class.
+Line 598: Class Fox.EBSText of control etxDescricaoLote was not a loaded control class.
+Line 204: The property name _ExtentX in etxRegistrosMarcados is invalid.
+Line 205: The property name _ExtentY in etxRegistrosMarcados is invalid.
+Line 206: The property name TipoTexto in etxRegistrosMarcados is invalid.
+Line 208: The property name TipoCriterio in etxRegistrosMarcados is invalid.
+Line 209: The property name Alinhamento in etxRegistrosMarcados is invalid.
+Line 226: The property name _ExtentX in etxTotalMarcados is invalid.
+Line 227: The property name _ExtentY in etxTotalMarcados is invalid.
+Line 228: The property name Tipo in etxTotalMarcados is invalid.
+Line 229: The property name CasasDecimais in etxTotalMarcados is invalid.
+Line 230: The property name TipoTexto in etxTotalMarcados is invalid.
+Line 232: The property name TipoCriterio in etxTotalMarcados is invalid.
+Line 233: The property name Alinhamento in etxTotalMarcados is invalid.
+Line 234: The property name Mascara in etxTotalMarcados is invalid.
+Line 251: The property name _ExtentX in etxTotalRegistros is invalid.
+Line 252: The property name _ExtentY in etxTotalRegistros is invalid.
+Line 253: The property name Tipo in etxTotalRegistros is invalid.
+Line 254: The property name CasasDecimais in etxTotalRegistros is invalid.
+Line 255: The property name TipoTexto in etxTotalRegistros is invalid.
+Line 257: The property name TipoCriterio in etxTotalRegistros is invalid.
+Line 258: The property name Alinhamento in etxTotalRegistros is invalid.
+Line 259: The property name Mascara in etxTotalRegistros is invalid.
+Line 276: The property name _ExtentX in etxRegistrosLocalizados is invalid.
+Line 277: The property name _ExtentY in etxRegistrosLocalizados is invalid.
+Line 278: The property name TipoTexto in etxRegistrosLocalizados is invalid.
+Line 280: The property name TipoCriterio in etxRegistrosLocalizados is invalid.
+Line 281: The property name Alinhamento in etxRegistrosLocalizados is invalid.
+Line 359: The property name _ExtentX in ecbBancos is invalid.
+Line 360: The property name _ExtentY in ecbBancos is invalid.
+Line 361: The property name Dados in ecbBancos is invalid.
+Line 362: The property name DadosAssist in ecbBancos is invalid.
+Line 379: The property name _ExtentX in edtPagamentoInicial is invalid.
+Line 380: The property name _ExtentY in edtPagamentoInicial is invalid.
+Line 397: The property name _ExtentX in edtPagamentoFinal is invalid.
+Line 398: The property name _ExtentY in edtPagamentoFinal is invalid.
+Line 415: The property name _ExtentX in ecbOrigemDocumentos is invalid.
+Line 416: The property name _ExtentY in ecbOrigemDocumentos is invalid.
+Line 417: The property name OrigemDados in ecbOrigemDocumentos is invalid.
+Line 418: The property name Dados in ecbOrigemDocumentos is invalid.
+Line 419: The property name DadosAssist in ecbOrigemDocumentos is invalid.
+Line 420: The property name DefaultValue in ecbOrigemDocumentos is invalid.
+Line 437: The property name _ExtentX in ecbTipoRegistro is invalid.
+Line 438: The property name _ExtentY in ecbTipoRegistro is invalid.
+Line 439: The property name Dados in ecbTipoRegistro is invalid.
+Line 440: The property name DadosAssist in ecbTipoRegistro is invalid.
+Line 457: The property name _ExtentX in etxCamara is invalid.
+Line 458: The property name _ExtentY in etxCamara is invalid.
+Line 459: The property name TipoTexto in etxCamara is invalid.
+Line 461: The property name PossuiDescricao in etxCamara is invalid.
+Line 462: The property name CampoCriterio in etxCamara is invalid.
+Line 463: The property name TipoCriterio in etxCamara is invalid.
+Line 464: The property name CampoDescricao in etxCamara is invalid.
+Line 465: The property name TabelaConsulta in etxCamara is invalid.
+Line 466: The property name TamanhoDescricao in etxCamara is invalid.
+Line 467: The property name Alinhamento in etxCamara is invalid.
+Line 582: The property name _ExtentX in etxNumeroLote is invalid.
+Line 583: The property name _ExtentY in etxNumeroLote is invalid.
+Line 584: The property name TipoTexto in etxNumeroLote is invalid.
+Line 586: The property name TipoCriterio in etxNumeroLote is invalid.
+Line 587: The property name Alinhamento in etxNumeroLote is invalid.
+Line 604: The property name _ExtentX in etxDescricaoLote is invalid.
+Line 605: The property name _ExtentY in etxDescricaoLote is invalid.
+Line 606: The property name Tipo in etxDescricaoLote is invalid.
+Line 607: The property name TipoTexto in etxDescricaoLote is invalid.
+Line 608: The property name MaxLength in etxDescricaoLote is invalid.

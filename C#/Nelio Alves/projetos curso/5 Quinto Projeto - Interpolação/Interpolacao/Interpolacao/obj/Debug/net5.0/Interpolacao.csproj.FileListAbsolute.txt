@@ -1,0 +1,16 @@
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\5 Quinto Projeto - Interpolação\Interpolacao\Interpolacao\bin\Debug\net5.0\Interpolacao.exe
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\5 Quinto Projeto - Interpolação\Interpolacao\Interpolacao\bin\Debug\net5.0\Interpolacao.deps.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\5 Quinto Projeto - Interpolação\Interpolacao\Interpolacao\bin\Debug\net5.0\Interpolacao.runtimeconfig.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\5 Quinto Projeto - Interpolação\Interpolacao\Interpolacao\bin\Debug\net5.0\Interpolacao.runtimeconfig.dev.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\5 Quinto Projeto - Interpolação\Interpolacao\Interpolacao\bin\Debug\net5.0\Interpolacao.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\5 Quinto Projeto - Interpolação\Interpolacao\Interpolacao\bin\Debug\net5.0\ref\Interpolacao.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\5 Quinto Projeto - Interpolação\Interpolacao\Interpolacao\bin\Debug\net5.0\Interpolacao.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\5 Quinto Projeto - Interpolação\Interpolacao\Interpolacao\obj\Debug\net5.0\Interpolacao.csproj.AssemblyReference.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\5 Quinto Projeto - Interpolação\Interpolacao\Interpolacao\obj\Debug\net5.0\Interpolacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\5 Quinto Projeto - Interpolação\Interpolacao\Interpolacao\obj\Debug\net5.0\Interpolacao.AssemblyInfoInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\5 Quinto Projeto - Interpolação\Interpolacao\Interpolacao\obj\Debug\net5.0\Interpolacao.AssemblyInfo.cs
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\5 Quinto Projeto - Interpolação\Interpolacao\Interpolacao\obj\Debug\net5.0\Interpolacao.csproj.CoreCompileInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\5 Quinto Projeto - Interpolação\Interpolacao\Interpolacao\obj\Debug\net5.0\Interpolacao.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\5 Quinto Projeto - Interpolação\Interpolacao\Interpolacao\obj\Debug\net5.0\ref\Interpolacao.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\5 Quinto Projeto - Interpolação\Interpolacao\Interpolacao\obj\Debug\net5.0\Interpolacao.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\5 Quinto Projeto - Interpolação\Interpolacao\Interpolacao\obj\Debug\net5.0\Interpolacao.genruntimeconfig.cache

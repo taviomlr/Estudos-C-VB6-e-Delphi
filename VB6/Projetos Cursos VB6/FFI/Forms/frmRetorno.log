@@ -1,0 +1,28 @@
+Line 78: Class Fox.EBSText of control etxBanco was not a loaded control class.
+Line 104: Class Fox.EBSText of control etxCarteira was not a loaded control class.
+Line 131: Class Fox.EBSArquivo of control etxCaminhoRetorno was not a loaded control class.
+Line 84: The property name _ExtentX in etxBanco is invalid.
+Line 85: The property name _ExtentY in etxBanco is invalid.
+Line 86: The property name MaxLength in etxBanco is invalid.
+Line 87: The property name PossuiDescricao in etxBanco is invalid.
+Line 88: The property name CampoCriterio in etxBanco is invalid.
+Line 89: The property name TipoCriterio in etxBanco is invalid.
+Line 90: The property name CampoDescricao in etxBanco is invalid.
+Line 91: The property name TabelaConsulta in etxBanco is invalid.
+Line 92: The property name TamanhoDescricao in etxBanco is invalid.
+Line 93: The property name Alinhamento in etxBanco is invalid.
+Line 110: The property name _ExtentX in etxCarteira is invalid.
+Line 111: The property name _ExtentY in etxCarteira is invalid.
+Line 112: The property name TipoTexto in etxCarteira is invalid.
+Line 113: The property name MaxLength in etxCarteira is invalid.
+Line 114: The property name PossuiDescricao in etxCarteira is invalid.
+Line 115: The property name CampoCriterio in etxCarteira is invalid.
+Line 116: The property name TipoCriterio in etxCarteira is invalid.
+Line 117: The property name CampoDescricao in etxCarteira is invalid.
+Line 118: The property name TabelaConsulta in etxCarteira is invalid.
+Line 119: The property name TamanhoDescricao in etxCarteira is invalid.
+Line 120: The property name Alinhamento in etxCarteira is invalid.
+Line 137: The property name _ExtentX in etxCaminhoRetorno is invalid.
+Line 138: The property name _ExtentY in etxCaminhoRetorno is invalid.
+Line 139: The property name TipoTratamento in etxCaminhoRetorno is invalid.
+Line 140: The property name Filter in etxCaminhoRetorno is invalid.

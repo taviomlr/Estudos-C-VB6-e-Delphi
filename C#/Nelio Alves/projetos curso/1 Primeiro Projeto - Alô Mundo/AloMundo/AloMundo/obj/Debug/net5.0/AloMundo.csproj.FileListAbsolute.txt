@@ -1,0 +1,15 @@
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\1 Primeiro Projeto - Alô Mundo\AloMundo\AloMundo\bin\Debug\net5.0\AloMundo.exe
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\1 Primeiro Projeto - Alô Mundo\AloMundo\AloMundo\bin\Debug\net5.0\AloMundo.deps.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\1 Primeiro Projeto - Alô Mundo\AloMundo\AloMundo\bin\Debug\net5.0\AloMundo.runtimeconfig.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\1 Primeiro Projeto - Alô Mundo\AloMundo\AloMundo\bin\Debug\net5.0\AloMundo.runtimeconfig.dev.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\1 Primeiro Projeto - Alô Mundo\AloMundo\AloMundo\bin\Debug\net5.0\AloMundo.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\1 Primeiro Projeto - Alô Mundo\AloMundo\AloMundo\bin\Debug\net5.0\ref\AloMundo.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\1 Primeiro Projeto - Alô Mundo\AloMundo\AloMundo\bin\Debug\net5.0\AloMundo.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\1 Primeiro Projeto - Alô Mundo\AloMundo\AloMundo\obj\Debug\net5.0\AloMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\1 Primeiro Projeto - Alô Mundo\AloMundo\AloMundo\obj\Debug\net5.0\AloMundo.AssemblyInfoInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\1 Primeiro Projeto - Alô Mundo\AloMundo\AloMundo\obj\Debug\net5.0\AloMundo.AssemblyInfo.cs
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\1 Primeiro Projeto - Alô Mundo\AloMundo\AloMundo\obj\Debug\net5.0\AloMundo.csproj.CoreCompileInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\1 Primeiro Projeto - Alô Mundo\AloMundo\AloMundo\obj\Debug\net5.0\AloMundo.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\1 Primeiro Projeto - Alô Mundo\AloMundo\AloMundo\obj\Debug\net5.0\ref\AloMundo.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\1 Primeiro Projeto - Alô Mundo\AloMundo\AloMundo\obj\Debug\net5.0\AloMundo.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\1 Primeiro Projeto - Alô Mundo\AloMundo\AloMundo\obj\Debug\net5.0\AloMundo.genruntimeconfig.cache

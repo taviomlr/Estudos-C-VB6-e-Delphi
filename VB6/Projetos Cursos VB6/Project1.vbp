@@ -1,7 +1,5 @@
 Type=Exe
-Form=cacaniquel1.frm
-Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\Windows\SysWOW64\stdole2.tlb#OLE Automation
-Startup="cacaniquel"
+Startup="Sub Main"
 Command32=""
 Name="Project1"
 HelpContextID="0"
@@ -27,3 +25,6 @@ Unattended=0
 Retained=0
 ThreadPerObject=0
 MaxNumberOfThreads=1
+
+[Rubberduck]
+ProjectId=3f0c99e3-0c63-4a5f-ae00-b9c9994571b2

@@ -1,0 +1,15 @@
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\4 Quarto Projeto - Concatenação\Concatenacao\Concatenacao\bin\Debug\net5.0\Concatenacao.exe
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\4 Quarto Projeto - Concatenação\Concatenacao\Concatenacao\bin\Debug\net5.0\Concatenacao.deps.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\4 Quarto Projeto - Concatenação\Concatenacao\Concatenacao\bin\Debug\net5.0\Concatenacao.runtimeconfig.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\4 Quarto Projeto - Concatenação\Concatenacao\Concatenacao\bin\Debug\net5.0\Concatenacao.runtimeconfig.dev.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\4 Quarto Projeto - Concatenação\Concatenacao\Concatenacao\bin\Debug\net5.0\Concatenacao.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\4 Quarto Projeto - Concatenação\Concatenacao\Concatenacao\bin\Debug\net5.0\ref\Concatenacao.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\4 Quarto Projeto - Concatenação\Concatenacao\Concatenacao\bin\Debug\net5.0\Concatenacao.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\4 Quarto Projeto - Concatenação\Concatenacao\Concatenacao\obj\Debug\net5.0\Concatenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\4 Quarto Projeto - Concatenação\Concatenacao\Concatenacao\obj\Debug\net5.0\Concatenacao.AssemblyInfoInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\4 Quarto Projeto - Concatenação\Concatenacao\Concatenacao\obj\Debug\net5.0\Concatenacao.AssemblyInfo.cs
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\4 Quarto Projeto - Concatenação\Concatenacao\Concatenacao\obj\Debug\net5.0\Concatenacao.csproj.CoreCompileInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\4 Quarto Projeto - Concatenação\Concatenacao\Concatenacao\obj\Debug\net5.0\Concatenacao.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\4 Quarto Projeto - Concatenação\Concatenacao\Concatenacao\obj\Debug\net5.0\ref\Concatenacao.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\4 Quarto Projeto - Concatenação\Concatenacao\Concatenacao\obj\Debug\net5.0\Concatenacao.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\4 Quarto Projeto - Concatenação\Concatenacao\Concatenacao\obj\Debug\net5.0\Concatenacao.genruntimeconfig.cache

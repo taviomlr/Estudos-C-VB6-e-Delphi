@@ -1,0 +1,36 @@
+Line 181: Class Fox.EBSText of control etxTipoServico was not a loaded control class.
+Line 199: Class Fox.EBSText of control etxFormaLancamento was not a loaded control class.
+Line 217: Class Fox.EBSText of control etxCodLancamento was not a loaded control class.
+Line 187: The property name _extentx in etxTipoServico is invalid.
+Line 188: The property name _extenty in etxTipoServico is invalid.
+Line 190: The property name tipo in etxTipoServico is invalid.
+Line 191: The property name tipotexto in etxTipoServico is invalid.
+Line 192: The property name maxlength in etxTipoServico is invalid.
+Line 193: The property name possuidescricao in etxTipoServico is invalid.
+Line 194: The property name campocriterio in etxTipoServico is invalid.
+Line 195: The property name campodescricao in etxTipoServico is invalid.
+Line 196: The property name tabelaconsulta in etxTipoServico is invalid.
+Line 197: The property name tamanhodescricao in etxTipoServico is invalid.
+Line 181: Property Font in etxTipoServico could not be set.
+Line 205: The property name _extentx in etxFormaLancamento is invalid.
+Line 206: The property name _extenty in etxFormaLancamento is invalid.
+Line 208: The property name tipo in etxFormaLancamento is invalid.
+Line 209: The property name tipotexto in etxFormaLancamento is invalid.
+Line 210: The property name maxlength in etxFormaLancamento is invalid.
+Line 211: The property name possuidescricao in etxFormaLancamento is invalid.
+Line 212: The property name campocriterio in etxFormaLancamento is invalid.
+Line 213: The property name campodescricao in etxFormaLancamento is invalid.
+Line 214: The property name tabelaconsulta in etxFormaLancamento is invalid.
+Line 215: The property name tamanhodescricao in etxFormaLancamento is invalid.
+Line 199: Property Font in etxFormaLancamento could not be set.
+Line 223: The property name _extentx in etxCodLancamento is invalid.
+Line 224: The property name _extenty in etxCodLancamento is invalid.
+Line 226: The property name tipo in etxCodLancamento is invalid.
+Line 227: The property name tipotexto in etxCodLancamento is invalid.
+Line 228: The property name maxlength in etxCodLancamento is invalid.
+Line 229: The property name possuidescricao in etxCodLancamento is invalid.
+Line 230: The property name campocriterio in etxCodLancamento is invalid.
+Line 231: The property name campodescricao in etxCodLancamento is invalid.
+Line 232: The property name tabelaconsulta in etxCodLancamento is invalid.
+Line 233: The property name tamanhodescricao in etxCodLancamento is invalid.
+Line 217: Property Font in etxCodLancamento could not be set.

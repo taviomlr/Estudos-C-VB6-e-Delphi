@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+	<assemblyIdentity type="win32" name="FFI.exe" version="2.62.0.65" />
+	<dependency>
+		<dependentAssembly>
+			<assemblyIdentity name="EBS.CRF.Biz" version="1.3.0.0" processorArchitecture="msil"></assemblyIdentity>
+		</dependentAssembly>
+	</dependency>
+	<dependency>
+		<dependentAssembly>
+			<assemblyIdentity name="EBS.CRF.Client" version="1.3.0.0" processorArchitecture="msil"></assemblyIdentity>
+		</dependentAssembly>
+	</dependency>
+	<dependency>
+		<dependentAssembly>
+			<assemblyIdentity name="NFeCore" version="3.5.0.0" publicKeyToken="40e699182a190fc4" processorArchitecture="msil"/>
+		</dependentAssembly>
+	</dependency>
+	<dependency>
+		<dependentAssembly>
+			<assemblyIdentity name="CTeCore" version="2.2.0.0" publicKeyToken="1c0a60289bb93251" processorArchitecture="msil"/>
+		</dependentAssembly>
+	</dependency>	
+</assembly>

@@ -1,0 +1,16 @@
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\12 Entrada de Dados P2\EntradaDeDadosP2\EntradaDeDadosP2\bin\Debug\net5.0\EntradaDeDadosP2.exe
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\12 Entrada de Dados P2\EntradaDeDadosP2\EntradaDeDadosP2\bin\Debug\net5.0\EntradaDeDadosP2.deps.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\12 Entrada de Dados P2\EntradaDeDadosP2\EntradaDeDadosP2\bin\Debug\net5.0\EntradaDeDadosP2.runtimeconfig.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\12 Entrada de Dados P2\EntradaDeDadosP2\EntradaDeDadosP2\bin\Debug\net5.0\EntradaDeDadosP2.runtimeconfig.dev.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\12 Entrada de Dados P2\EntradaDeDadosP2\EntradaDeDadosP2\bin\Debug\net5.0\EntradaDeDadosP2.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\12 Entrada de Dados P2\EntradaDeDadosP2\EntradaDeDadosP2\bin\Debug\net5.0\ref\EntradaDeDadosP2.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\12 Entrada de Dados P2\EntradaDeDadosP2\EntradaDeDadosP2\bin\Debug\net5.0\EntradaDeDadosP2.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\12 Entrada de Dados P2\EntradaDeDadosP2\EntradaDeDadosP2\obj\Debug\net5.0\EntradaDeDadosP2.csproj.AssemblyReference.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\12 Entrada de Dados P2\EntradaDeDadosP2\EntradaDeDadosP2\obj\Debug\net5.0\EntradaDeDadosP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\12 Entrada de Dados P2\EntradaDeDadosP2\EntradaDeDadosP2\obj\Debug\net5.0\EntradaDeDadosP2.AssemblyInfoInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\12 Entrada de Dados P2\EntradaDeDadosP2\EntradaDeDadosP2\obj\Debug\net5.0\EntradaDeDadosP2.AssemblyInfo.cs
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\12 Entrada de Dados P2\EntradaDeDadosP2\EntradaDeDadosP2\obj\Debug\net5.0\EntradaDeDadosP2.csproj.CoreCompileInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\12 Entrada de Dados P2\EntradaDeDadosP2\EntradaDeDadosP2\obj\Debug\net5.0\EntradaDeDadosP2.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\12 Entrada de Dados P2\EntradaDeDadosP2\EntradaDeDadosP2\obj\Debug\net5.0\ref\EntradaDeDadosP2.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\12 Entrada de Dados P2\EntradaDeDadosP2\EntradaDeDadosP2\obj\Debug\net5.0\EntradaDeDadosP2.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\12 Entrada de Dados P2\EntradaDeDadosP2\EntradaDeDadosP2\obj\Debug\net5.0\EntradaDeDadosP2.genruntimeconfig.cache
