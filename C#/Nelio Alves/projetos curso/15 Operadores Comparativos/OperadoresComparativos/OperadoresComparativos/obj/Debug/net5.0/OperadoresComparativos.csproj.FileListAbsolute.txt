@@ -1,0 +1,16 @@
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\15 Operadores Comparativos\OperadoresComparativos\OperadoresComparativos\bin\Debug\net5.0\OperadoresComparativos.exe
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\15 Operadores Comparativos\OperadoresComparativos\OperadoresComparativos\bin\Debug\net5.0\OperadoresComparativos.deps.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\15 Operadores Comparativos\OperadoresComparativos\OperadoresComparativos\bin\Debug\net5.0\OperadoresComparativos.runtimeconfig.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\15 Operadores Comparativos\OperadoresComparativos\OperadoresComparativos\bin\Debug\net5.0\OperadoresComparativos.runtimeconfig.dev.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\15 Operadores Comparativos\OperadoresComparativos\OperadoresComparativos\bin\Debug\net5.0\OperadoresComparativos.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\15 Operadores Comparativos\OperadoresComparativos\OperadoresComparativos\bin\Debug\net5.0\ref\OperadoresComparativos.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\15 Operadores Comparativos\OperadoresComparativos\OperadoresComparativos\bin\Debug\net5.0\OperadoresComparativos.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\15 Operadores Comparativos\OperadoresComparativos\OperadoresComparativos\obj\Debug\net5.0\OperadoresComparativos.csproj.AssemblyReference.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\15 Operadores Comparativos\OperadoresComparativos\OperadoresComparativos\obj\Debug\net5.0\OperadoresComparativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\15 Operadores Comparativos\OperadoresComparativos\OperadoresComparativos\obj\Debug\net5.0\OperadoresComparativos.AssemblyInfoInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\15 Operadores Comparativos\OperadoresComparativos\OperadoresComparativos\obj\Debug\net5.0\OperadoresComparativos.AssemblyInfo.cs
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\15 Operadores Comparativos\OperadoresComparativos\OperadoresComparativos\obj\Debug\net5.0\OperadoresComparativos.csproj.CoreCompileInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\15 Operadores Comparativos\OperadoresComparativos\OperadoresComparativos\obj\Debug\net5.0\OperadoresComparativos.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\15 Operadores Comparativos\OperadoresComparativos\OperadoresComparativos\obj\Debug\net5.0\ref\OperadoresComparativos.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\15 Operadores Comparativos\OperadoresComparativos\OperadoresComparativos\obj\Debug\net5.0\OperadoresComparativos.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\15 Operadores Comparativos\OperadoresComparativos\OperadoresComparativos\obj\Debug\net5.0\OperadoresComparativos.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\18 Exercícios Propostos - Estrutura Condicional\Exercicio8\Exercicio8\bin\Debug\net5.0\Exercicio8.exe
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\18 Exercícios Propostos - Estrutura Condicional\Exercicio8\Exercicio8\bin\Debug\net5.0\Exercicio8.deps.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\18 Exercícios Propostos - Estrutura Condicional\Exercicio8\Exercicio8\bin\Debug\net5.0\Exercicio8.runtimeconfig.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\18 Exercícios Propostos - Estrutura Condicional\Exercicio8\Exercicio8\bin\Debug\net5.0\Exercicio8.runtimeconfig.dev.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\18 Exercícios Propostos - Estrutura Condicional\Exercicio8\Exercicio8\bin\Debug\net5.0\Exercicio8.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\18 Exercícios Propostos - Estrutura Condicional\Exercicio8\Exercicio8\bin\Debug\net5.0\ref\Exercicio8.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\18 Exercícios Propostos - Estrutura Condicional\Exercicio8\Exercicio8\bin\Debug\net5.0\Exercicio8.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\18 Exercícios Propostos - Estrutura Condicional\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.csproj.AssemblyReference.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\18 Exercícios Propostos - Estrutura Condicional\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\18 Exercícios Propostos - Estrutura Condicional\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.AssemblyInfoInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\18 Exercícios Propostos - Estrutura Condicional\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.AssemblyInfo.cs
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\18 Exercícios Propostos - Estrutura Condicional\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.csproj.CoreCompileInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\18 Exercícios Propostos - Estrutura Condicional\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\18 Exercícios Propostos - Estrutura Condicional\Exercicio8\Exercicio8\obj\Debug\net5.0\ref\Exercicio8.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\18 Exercícios Propostos - Estrutura Condicional\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\18 Exercícios Propostos - Estrutura Condicional\Exercicio8\Exercicio8\obj\Debug\net5.0\Exercicio8.genruntimeconfig.cache

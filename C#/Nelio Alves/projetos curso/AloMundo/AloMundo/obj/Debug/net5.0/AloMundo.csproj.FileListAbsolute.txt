@@ -1,0 +1,16 @@
+C:\Users\Távio\source\repos\AloMundo\AloMundo\bin\Debug\net5.0\AloMundo.exe
+C:\Users\Távio\source\repos\AloMundo\AloMundo\bin\Debug\net5.0\AloMundo.deps.json
+C:\Users\Távio\source\repos\AloMundo\AloMundo\bin\Debug\net5.0\AloMundo.runtimeconfig.json
+C:\Users\Távio\source\repos\AloMundo\AloMundo\bin\Debug\net5.0\AloMundo.runtimeconfig.dev.json
+C:\Users\Távio\source\repos\AloMundo\AloMundo\bin\Debug\net5.0\AloMundo.dll
+C:\Users\Távio\source\repos\AloMundo\AloMundo\bin\Debug\net5.0\ref\AloMundo.dll
+C:\Users\Távio\source\repos\AloMundo\AloMundo\bin\Debug\net5.0\AloMundo.pdb
+C:\Users\Távio\source\repos\AloMundo\AloMundo\obj\Debug\net5.0\AloMundo.csproj.AssemblyReference.cache
+C:\Users\Távio\source\repos\AloMundo\AloMundo\obj\Debug\net5.0\AloMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Távio\source\repos\AloMundo\AloMundo\obj\Debug\net5.0\AloMundo.AssemblyInfoInputs.cache
+C:\Users\Távio\source\repos\AloMundo\AloMundo\obj\Debug\net5.0\AloMundo.AssemblyInfo.cs
+C:\Users\Távio\source\repos\AloMundo\AloMundo\obj\Debug\net5.0\AloMundo.csproj.CoreCompileInputs.cache
+C:\Users\Távio\source\repos\AloMundo\AloMundo\obj\Debug\net5.0\AloMundo.dll
+C:\Users\Távio\source\repos\AloMundo\AloMundo\obj\Debug\net5.0\ref\AloMundo.dll
+C:\Users\Távio\source\repos\AloMundo\AloMundo\obj\Debug\net5.0\AloMundo.pdb
+C:\Users\Távio\source\repos\AloMundo\AloMundo\obj\Debug\net5.0\AloMundo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\16 Operadores Lógicos\OperadoresLogicos\OperadoresLogicos\bin\Debug\net5.0\OperadoresLogicos.exe
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\16 Operadores Lógicos\OperadoresLogicos\OperadoresLogicos\bin\Debug\net5.0\OperadoresLogicos.deps.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\16 Operadores Lógicos\OperadoresLogicos\OperadoresLogicos\bin\Debug\net5.0\OperadoresLogicos.runtimeconfig.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\16 Operadores Lógicos\OperadoresLogicos\OperadoresLogicos\bin\Debug\net5.0\OperadoresLogicos.runtimeconfig.dev.json
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\16 Operadores Lógicos\OperadoresLogicos\OperadoresLogicos\bin\Debug\net5.0\OperadoresLogicos.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\16 Operadores Lógicos\OperadoresLogicos\OperadoresLogicos\bin\Debug\net5.0\ref\OperadoresLogicos.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\16 Operadores Lógicos\OperadoresLogicos\OperadoresLogicos\bin\Debug\net5.0\OperadoresLogicos.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\16 Operadores Lógicos\OperadoresLogicos\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.csproj.AssemblyReference.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\16 Operadores Lógicos\OperadoresLogicos\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\16 Operadores Lógicos\OperadoresLogicos\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\16 Operadores Lógicos\OperadoresLogicos\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.AssemblyInfo.cs
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\16 Operadores Lógicos\OperadoresLogicos\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\16 Operadores Lógicos\OperadoresLogicos\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\16 Operadores Lógicos\OperadoresLogicos\OperadoresLogicos\obj\Debug\net5.0\ref\OperadoresLogicos.dll
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\16 Operadores Lógicos\OperadoresLogicos\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.pdb
+C:\workspace\Estudos C# VB6 e Delphi\C#\Nelio Alves\projetos curso\16 Operadores Lógicos\OperadoresLogicos\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.genruntimeconfig.cache
