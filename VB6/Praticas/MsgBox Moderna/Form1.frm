@@ -32,10 +32,12 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Private Sub Command1_Click()
-If lngRegistrosSel = 0 Then
-        MsgBox "Favor selecionar pelo menos um registro", vbInformation, "Atenção"
-        Exit Sub
-    End If
+  If lngRegistrosSel = 0 Then
+    MsgBox "Favor selecionar pelo menos um registro", vbInformation, "Atenção"
+Exit Sub
+  Else
+    Form2.Show
+  End If
 End Sub
 
 
