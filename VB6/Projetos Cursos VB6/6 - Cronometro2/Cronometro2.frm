@@ -27,11 +27,11 @@ Begin VB.Form Cronometro2
    End
    Begin VB.Label lblDecorrido 
       BackColor       =   &H8000000E&
-      Height          =   495
+      Height          =   300
       Left            =   3435
       TabIndex        =   7
-      Top             =   2055
-      Width           =   1215
+      Top             =   2160
+      Width           =   900
    End
    Begin VB.Label lblTempoDecorrido 
       Caption         =   "Tempo Decorrido:"
@@ -43,11 +43,11 @@ Begin VB.Form Cronometro2
    End
    Begin VB.Label lblFinal 
       BackColor       =   &H8000000E&
-      Height          =   495
+      Height          =   300
       Left            =   3435
       TabIndex        =   5
-      Top             =   1155
-      Width           =   1215
+      Top             =   1275
+      Width           =   900
    End
    Begin VB.Label lblTempoFinal 
       Caption         =   "Tempo Final:"
@@ -59,11 +59,11 @@ Begin VB.Form Cronometro2
    End
    Begin VB.Label lblInicial 
       BackColor       =   &H8000000E&
-      Height          =   495
+      Height          =   300
       Left            =   3420
       TabIndex        =   3
-      Top             =   270
-      Width           =   1215
+      Top             =   375
+      Width           =   900
    End
    Begin VB.Label lblTempoInicial 
       Caption         =   "Tempo Inicial:"
@@ -100,3 +100,4 @@ Private Sub btnParar_Click()
   btnParar.Enabled = False
   btnIniciar.Enabled = True
 End Sub
+
