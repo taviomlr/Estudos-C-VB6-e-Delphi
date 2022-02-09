@@ -35,11 +35,22 @@ Attribute VB_Exposed = False
 
 
 Private Sub Command1_Click()
+<<<<<<< HEAD
     If lngRegistrosSel = 0 Then
         MsgBox "Favor selecionar pelo menos um registro", vbInformation, "Atenção"
         Exit Sub
     Else
         Form2.Show vbModal
     End If
+=======
+  If lngRegistrosSel = 0 Then
+    MsgBox "IMPORTANTE! A VPN tem que está conectada.", vbCritical, "Atenção"
+    If MsgBox("A VPN está conectada?", vbQuestion + vbYesNo, "Atenção") = vbYes Then
+         Form2.Show
+  Else
+      MsgBox "Conecte na VPN e depois execute esta operação novamente.", vbInformation
+  End If
+  End If
+>>>>>>> 83e8114b2c32a0685b9c4d4202c2ada36b75d763
 End Sub
 

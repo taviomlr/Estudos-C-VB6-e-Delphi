@@ -15,14 +15,27 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
+'Private Sub Form_Click()
+'  Sorriso.Print "Tenha um ";
+'  Sorriso.FontBold = True
+'  Sorriso.Print "bom";
+'  Sorriso.FontBold = False
+'  Sorriso.Print " dia "
+'End Sub
+'
+'Private Sub Form_DblClick()
+'  Sorriso.Cls
+'End Sub
+
+'opção sem o nome do formulário, facilita o reaproveitamento de métodos
 Private Sub Form_Click()
-  Sorriso.Print "Tenha um ";
-  Sorriso.FontBold = True
-  Sorriso.Print "bom";
-  Sorriso.FontBold = False
-  Sorriso.Print " dia "
+  Print "Tenha um ";
+  FontBold = True
+  Print "bom";
+  FontBold = False
+  Print " dia "
 End Sub
 
 Private Sub Form_DblClick()
-  Sorriso.Cls
+  Cls
 End Sub
